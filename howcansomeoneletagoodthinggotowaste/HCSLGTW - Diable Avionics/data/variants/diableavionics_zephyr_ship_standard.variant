@@ -1,0 +1,39 @@
+{
+  "displayName": "Zephyr S+",
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "goalVariant": false,
+  "hullId": "diableavionics_zephyr_ship",
+  "hullMods": [
+    "autorepair",
+    "frontshield"
+  ],
+  "modules": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "diableavionics_zephyr_ship_standard",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "HEAD": "diableavionics_zephyr_head"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "RIGHT_BEAM": "diableavionics_zephyr_rightBeam"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "LEFT_BEAM": "diableavionics_zephyr_leftBeam"
+      }
+    }
+  ],
+  "wings": []
+}

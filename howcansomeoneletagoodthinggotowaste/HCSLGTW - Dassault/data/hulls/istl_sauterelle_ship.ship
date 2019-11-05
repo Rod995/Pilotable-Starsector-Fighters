@@ -1,0 +1,105 @@
+{
+  "bounds": [
+    6.5,
+    -3.5,
+    15,
+    -3.5,
+    14,
+    -10,
+    10,
+    -10,
+    10,
+    -10,
+    10,
+    -7,
+    3,
+    -7,
+    -7.5,
+    -12.5,
+    -13.5,
+    -3.5,
+    -12.5,
+    -0,
+    -13.5,
+    3.5,
+    -7.5,
+    12.5,
+    3,
+    7,
+    10,
+    7,
+    10,
+    10,
+    14,
+    10,
+    15,
+    3.5,
+    6.5,
+    3.5
+  ],
+  "builtInMods": [
+    "istl_monobloc_ca",
+    "no_weapon_flux"
+  ],
+  "builtInWeapons": {
+    "WS0001": "istl_6cmrailgun",
+    "WS0002": "istl_blinkerC_green"
+  },
+  "center": [
+    13.5,
+    15.5
+  ],
+  "collisionRadius": 32,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 9,
+      "length": 25,
+      "location": [
+        -10,
+        -0
+      ],
+      "style": "DMEFlare",
+      "width": 9
+    }
+  ],
+  "height": 35,
+  "hullId": "istl_sauterelle_ship",
+  "hullName": "Sauterelle-S",
+  "hullSize": "FRIGATE",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 30,
+  "spriteName": "graphics/ISTL/ships/drones/istl_sauterelle.png",
+  "style": "DMEMain",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS0001",
+      "locations": [
+        2.5,
+        -0
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "BUILT_IN"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0002",
+      "locations": [
+        19,
+        7
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    }
+  ],
+  "width": 27
+}

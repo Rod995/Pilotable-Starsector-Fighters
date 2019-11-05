@@ -1,0 +1,42 @@
+{
+  "displayName": "New Variant",
+  "fluxCapacitors": 2,
+  "fluxVents": 0,
+  "goalVariant": true,
+  "hullId": "diableavionics_raven_ship",
+  "hullMods": [
+    "heavyarmor",
+    "frontshield",
+    "hardenedshieldemitter",
+    "extendedshieldemitter",
+    "magazines"
+  ],
+  "modules": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "diableavionics_raven_ship_variant",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0002": "diableavionics_ravenleft2"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "diableavionics_ravenright"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "diableavionics_ravenhead"
+      }
+    }
+  ],
+  "wings": []
+}

@@ -1,0 +1,96 @@
+{
+  "bounds": [
+    10.5,
+    -3.5,
+    -1,
+    -7.5,
+    -8.5,
+    -4,
+    -8.5,
+    4,
+    -1,
+    7.5,
+    10.5,
+    3.5,
+    8,
+    -0
+  ],
+  "builtInMods": [
+    "no_weapon_flux",
+    "armoredweapons"
+  ],
+  "builtInWeapons": {
+    "WS0001": "istl_dronepd",
+    "WS0002": "istl_toreador",
+    "WS0003": "istl_slapper_ftr"
+  },
+  "center": [
+    9,
+    11
+  ],
+  "collisionRadius": 24,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 7,
+      "length": 22.5,
+      "location": [
+        -7,
+        -0
+      ],
+      "style": "HIGH_TECH",
+      "width": 7
+    }
+  ],
+  "height": 24,
+  "hullId": "istl_tempestdrone_ship",
+  "hullName": "Defense Bit-S",
+  "hullSize": "FRIGATE",
+  "shieldCenter": [
+    1,
+    0
+  ],
+  "shieldRadius": 22,
+  "spriteName": "graphics/ISTL/ships/istl_tempestdrone.png",
+  "style": "DMEBlade",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 120,
+      "id": "WS0001",
+      "locations": [
+        2,
+        -0
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BUILT_IN"
+    },
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS0002",
+      "locations": [
+        6,
+        -0
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BUILT_IN"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0003",
+      "locations": [
+        8,
+        -0
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BUILT_IN"
+    }
+  ],
+  "width": 18
+}

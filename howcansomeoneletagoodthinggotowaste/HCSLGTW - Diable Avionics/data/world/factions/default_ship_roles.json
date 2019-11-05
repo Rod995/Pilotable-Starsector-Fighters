@@ -1,0 +1,25 @@
+{
+            "combatSmallForSmallFleet":{
+                        "diableavionics_arbitrator_ship_variant":2,
+                        "diableavionics_warlust_ship_variant":3,
+                        "diableavionics_strife_ship_variant":2,
+                        "diableavionics_valiant_ship_variant":3,
+                        "diableavionics_frost_ship_variant":2,
+            },
+            "combatSmall":{
+                        "diableavionics_warlust_ship_variant":3,
+                        "diableavionics_arbitrator_ship_variant":2,
+                        "diableavionics_strife_ship_variant":2,
+                        "diableavionics_zephyr_ship_standard":2,
+                        "diableavionics_valiant_ship_variant":3,
+                        "diableavionics_frost_ship_variant":2,
+                        "diableavionics_blizzaia_plus_ship_variant":1,
+            },
+            "combatMedium":{
+                        "diableavionics_arbitrator_ship_variant":1,
+                        "diableavionics_zephyr_ship_standard":3,
+                        "diableavionics_strife_ship_variant":1,
+                        "diableavionics_blizzaia_plus_ship_variant":1,
+                        "diableavionics_blizzaia_ship_variant":3,
+            },
+}

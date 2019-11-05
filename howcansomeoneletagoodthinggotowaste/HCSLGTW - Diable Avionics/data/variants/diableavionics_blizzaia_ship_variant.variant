@@ -1,0 +1,44 @@
+{
+  "displayName": "Blizzaia S",
+  "fluxCapacitors": 1,
+  "fluxVents": 0,
+  "goalVariant": true,
+  "hullId": "diableavionics_blizzaia_ship",
+  "hullMods": [
+    "missile_reload",
+    "targetingunit",
+    "turretgyros",
+    "missleracks",
+    "frontshield",
+    "extendedshieldemitter",
+    "heavyarmor"
+  ],
+  "modules": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "diableavionics_blizzaia_ship_variant",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "GUN": "diableavionics_blizzaiaright"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "HEAD": "diableavionics_blizzaiahead"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "SHOULDER": "diableavionics_blizzaialeft"
+      }
+    }
+  ],
+  "wings": []
+}

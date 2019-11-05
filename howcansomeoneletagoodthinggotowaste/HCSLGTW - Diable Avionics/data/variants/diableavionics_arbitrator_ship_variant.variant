@@ -1,0 +1,22 @@
+{
+  "displayName": "Arbitrator S+",
+  "fluxCapacitors": 0,
+  "fluxVents": 2,
+  "goalVariant": true,
+  "hullId": "diableavionics_arbitrator_ship",
+  "hullMods": [],
+  "modules": [],
+  "permaMods": [],
+  "quality": 0,
+  "variantId": "diableavionics_arbitrator_ship_variant",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0002": "diableavionics_arbitratorBooster"
+      }
+    }
+  ],
+  "wings": []
+}

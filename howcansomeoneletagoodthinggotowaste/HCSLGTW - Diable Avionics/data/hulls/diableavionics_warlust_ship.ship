@@ -1,0 +1,118 @@
+{
+  "bounds": [
+    6,
+    -7.5,
+    3,
+    -14.5,
+    -3,
+    -14.5,
+    -3,
+    -5.5,
+    -12,
+    -7.5,
+    -16.5,
+    -0,
+    -12,
+    7.5,
+    -3,
+    5.5,
+    -3,
+    14.5,
+    3,
+    14.5,
+    6,
+    7.5,
+    11,
+    5.5,
+    9,
+    -6.5
+  ],
+  "builtInWeapons": {
+    "ARM": "diableavionics_blizzaiaarm",
+    "SHOULDER": "diableavionics_warlustshoulder",
+    "WS_HEAD": "diableavionics_warlusthead",
+    "WS_RIGHT": "diableavionics_warlustgun"
+  },
+  "center": [
+    16,
+    18.5
+  ],
+  "collisionRadius": 21,
+  "engineSlots": [
+    {
+      "angle": -180,
+      "contrailSize": 12,
+      "length": 20.5,
+      "location": [
+        -16.5,
+        -0
+      ],
+      "style": "CUSTOM",
+      "styleId": "DiableAvionicsTrail",
+      "width": 12
+    }
+  ],
+  "height": 31,
+  "hullId": "diableavionics_warlust_ship",
+  "hullName": "Warlust-S",
+  "hullSize": "FRIGATE",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 20.5,
+  "spriteName": "graphics/da/ships/warlust/diableavionics_warlust.png",
+  "style": "DA_WANZER",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 15,
+      "arc": 90,
+      "id": "ARM",
+      "locations": [
+        -1,
+        11.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": 0,
+      "arc": 135,
+      "id": "WS_HEAD",
+      "locations": [
+        0,
+        0
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BUILT_IN"
+    },
+    {
+      "angle": 15,
+      "arc": 90,
+      "id": "SHOULDER",
+      "locations": [
+        2,
+        11.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "HYBRID"
+    },
+    {
+      "angle": 0,
+      "arc": 60,
+      "id": "WS_RIGHT",
+      "locations": [
+        2,
+        -11.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BUILT_IN"
+    }
+  ],
+  "width": 32
+}

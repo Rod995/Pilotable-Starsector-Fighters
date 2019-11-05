@@ -1,0 +1,220 @@
+{
+  "bounds": [
+    26,
+    -3,
+    21,
+    -5,
+    11.5,
+    -5,
+    -3.5,
+    -19.5,
+    -10,
+    -19.5,
+    -14,
+    -9,
+    -26.5,
+    -6.5,
+    -14.5,
+    -5,
+    -14.5,
+    5,
+    -26.5,
+    6.5,
+    -14,
+    9,
+    -10,
+    19.5,
+    -3.5,
+    19.5,
+    11.5,
+    5,
+    21,
+    5,
+    26,
+    3
+  ],
+  "builtInMods": [
+    "no_weapon_flux",
+    "insulatedengine",
+    "armoredweapons"
+  ],
+  "builtInWeapons": {
+    "WS0001": "istl_matadorheavy",
+    "WS0002": "istl_amm_samo",
+    "WS0005": "istl_dronepd",
+    "WS0006": "istl_miniphaserail",
+    "WS0007": "istl_spooky_cockpit"
+  },
+  "center": [
+    22,
+    28
+  ],
+  "collisionRadius": 45,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 2,
+      "length": 25,
+      "location": [
+        -13,
+        3.5
+      ],
+      "style": "HIGH_TECH",
+      "width": 2
+    },
+    {
+      "angle": -180,
+      "contrailSize": 2,
+      "length": 25,
+      "location": [
+        -13,
+        -3.5
+      ],
+      "style": "HIGH_TECH",
+      "width": 2
+    },
+    {
+      "angle": 180,
+      "contrailSize": 3,
+      "length": 16,
+      "location": [
+        -11.5,
+        10
+      ],
+      "style": "HIGH_TECH",
+      "width": 3
+    },
+    {
+      "angle": -180,
+      "contrailSize": 3,
+      "length": 16,
+      "location": [
+        -11.5,
+        -10
+      ],
+      "style": "HIGH_TECH",
+      "width": 3
+    },
+    {
+      "angle": -180,
+      "contrailSize": 3,
+      "length": 20,
+      "location": [
+        -11.5,
+        13
+      ],
+      "style": "HIGH_TECH",
+      "width": 3
+    },
+    {
+      "angle": 180,
+      "contrailSize": 3,
+      "length": 20,
+      "location": [
+        -11.5,
+        -13
+      ],
+      "style": "HIGH_TECH",
+      "width": 3
+    }
+  ],
+  "height": 56,
+  "hullId": "istl_spooky_ship",
+  "hullName": "Spooky-S",
+  "hullSize": "FRIGATE",
+  "shieldCenter": [
+    -2,
+    0
+  ],
+  "shieldRadius": 40,
+  "spriteName": "graphics/ISTL/ships/istl_spooky.png",
+  "style": "DMEBlade",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 120,
+      "id": "WS0001",
+      "locations": [
+        21,
+        0
+      ],
+      "mount": "HIDDEN",
+      "size": "MEDIUM",
+      "type": "BUILT_IN"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0002",
+      "locations": [
+        4,
+        0
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BUILT_IN"
+    },
+    {
+      "angle": 30,
+      "arc": 0,
+      "id": "WS0003",
+      "locations": [
+        5.5,
+        8.5
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "SYSTEM"
+    },
+    {
+      "angle": -30,
+      "arc": 0,
+      "id": "WS0004",
+      "locations": [
+        5.5,
+        -8.5
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "SYSTEM"
+    },
+    {
+      "angle": 180,
+      "arc": 360,
+      "id": "WS0005",
+      "locations": [
+        -5,
+        -0
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BUILT_IN"
+    },
+    {
+      "angle": 0,
+      "arc": 30,
+      "id": "WS0006",
+      "locations": [
+        16,
+        -0
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BUILT_IN"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0007",
+      "locations": [
+        17,
+        -0
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    }
+  ],
+  "width": 44
+}

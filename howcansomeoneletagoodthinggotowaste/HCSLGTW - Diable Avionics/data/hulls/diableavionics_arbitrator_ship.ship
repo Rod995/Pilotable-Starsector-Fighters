@@ -1,0 +1,122 @@
+{
+  "bounds": [
+    9.5,
+    2.5,
+    -11.5,
+    12.5,
+    -11.5,
+    -12.5,
+    9.5,
+    -2.5,
+    26,
+    -0
+  ],
+  "builtInMods": [
+    "reduced_explosion"
+  ],
+  "builtInWeapons": {
+    "WS0002": "diableavionics_arbitratorBooster"
+  },
+  "center": [
+    14,
+    17
+  ],
+  "collisionRadius": 31.5,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 10,
+      "length": 18.5,
+      "location": [
+        -13.5,
+        -0
+      ],
+      "style": "DiableAvionicsTrail",
+      "width": 10
+    },
+    {
+      "angle": 180,
+      "contrailSize": 128,
+      "length": 55,
+      "location": [
+        -27.5,
+        -0
+      ],
+      "style": "DiableAvionicsTrail",
+      "width": 18
+    },
+    {
+      "angle": 168.5,
+      "contrailSize": 6.723432,
+      "length": 6.704391,
+      "location": [
+        -12,
+        5.5
+      ],
+      "style": "DiableAvionicsTrail",
+      "width": 6.723432
+    },
+    {
+      "angle": -168.5,
+      "contrailSize": 6.723432,
+      "length": 6.704391,
+      "location": [
+        -12,
+        -5.5
+      ],
+      "style": "DiableAvionicsTrail",
+      "width": 6.723432
+    }
+  ],
+  "height": 44,
+  "hullId": "diableavionics_arbitrator_ship",
+  "hullName": "Arbitrator S",
+  "hullSize": "FRIGATE",
+  "shieldCenter": [
+    5,
+    0
+  ],
+  "shieldRadius": 26,
+  "spriteName": "graphics/da/ships/arbitrator/diableavionics_arbitrator.png",
+  "style": "DA_WANZER",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0002",
+      "locations": [
+        -10,
+        0
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BUILT_IN"
+    },
+    {
+      "angle": 0,
+      "arc": 3,
+      "id": "WS0001",
+      "locations": [
+        9.5,
+        5.5
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "HYBRID"
+    },
+    {
+      "angle": 0,
+      "arc": 3,
+      "id": "WS0003",
+      "locations": [
+        12,
+        -4
+      ],
+      "mount": "HARDPOINT",
+      "size": "SMALL",
+      "type": "HYBRID"
+    }
+  ],
+  "width": 28
+}

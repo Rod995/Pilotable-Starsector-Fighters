@@ -1,0 +1,38 @@
+{
+    "hullFrequency":{
+        "tags":{},
+        "hulls":{
+            "diableavionics_arbitrator_ship": 6,
+            "diableavionics_blizzaia_plus_ship": 1,
+            "diableavionics_blizzaia_ship": 4,
+            "diableavionics_frost_ship": 3,
+            "diableavionics_raven_ship": 4,
+            "diableavionics_strife_ship": 4,
+            "diableavionics_valiant_ship": 6,
+            "diableavionics_warlust_ship": 3,
+            "diableavionics_zephyr_ship": 3,
+        },
+    },
+    "knownShips":{
+        "tags":["diable_bp"],
+        "hulls":[
+            "diableavionics_arbitrator_ship",
+            "diableavionics_blizzaia_plus_ship",
+            "diableavionics_blizzaia_ship",
+            "diableavionics_frost_ship",
+            "diableavionics_raven_ship",
+            "diableavionics_strife_ship",
+            "diableavionics_valiant_ship",
+            "diableavionics_warlust_ship",
+            "diableavionics_zephyr_ship",
+        ],
+    },
+    "knownFighters":{
+        "fighters":[
+        ],
+    },
+    "knownWeapons":{
+        "weapons":[
+        ],
+    },
+},

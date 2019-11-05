@@ -1,0 +1,144 @@
+{
+  "bounds": [
+    8.5,
+    -2.5,
+    5.5,
+    -2.5,
+    -4,
+    -11.5,
+    -7,
+    -11.5,
+    -5,
+    -5.5,
+    -8,
+    -4,
+    -5.5,
+    -3,
+    -5.5,
+    3,
+    -8,
+    4,
+    -5,
+    5.5,
+    -7,
+    11.5,
+    -4,
+    11.5,
+    5.5,
+    2.5,
+    8.5,
+    2.5
+  ],
+  "builtInMods": [
+    "insulatedengine"
+  ],
+  "builtInWeapons": {
+    "WS0001": "istl_micropd",
+    "WS0002": "istl_slapper_ftr",
+    "WS0003": "istl_blinkerB_blue",
+    "WS0004": "istl_blinkerB_blue"
+  },
+  "center": [
+    13,
+    9.5
+  ],
+  "collisionRadius": 18,
+  "engineSlots": [
+    {
+      "angle": 180,
+      "contrailSize": 5,
+      "length": 24,
+      "location": [
+        -6,
+        -0
+      ],
+      "style": "DMEFlare",
+      "width": 5
+    },
+    {
+      "angle": 175,
+      "contrailSize": 128,
+      "length": 15,
+      "location": [
+        -6.5,
+        1.5
+      ],
+      "style": "DMEFlare",
+      "width": 1
+    },
+    {
+      "angle": -175,
+      "contrailSize": 128,
+      "length": 15,
+      "location": [
+        -6.5,
+        -1.5
+      ],
+      "style": "DMEFlare",
+      "width": 1
+    }
+  ],
+  "height": 20,
+  "hullId": "istl_dard_ship",
+  "hullName": "Dard-S",
+  "hullSize": "FRIGATE",
+  "shieldCenter": [
+    0,
+    -0
+  ],
+  "shieldRadius": 16,
+  "spriteName": "graphics/ISTL/ships/istl_dard.png",
+  "style": "DMEMain",
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "angle": 0,
+      "arc": 75,
+      "id": "WS0001",
+      "locations": [
+        4.5,
+        -0
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BUILT_IN"
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0002",
+      "locations": [
+        0,
+        -0
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BUILT_IN"
+    },
+    {
+      "angle": 90,
+      "arc": 0,
+      "id": "WS0003",
+      "locations": [
+        -3.5,
+        5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    },
+    {
+      "angle": -90,
+      "arc": 0,
+      "id": "WS0004",
+      "locations": [
+        -3.5,
+        -5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE"
+    }
+  ],
+  "width": 26
+}
