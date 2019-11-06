@@ -24,9 +24,9 @@ public class MissionDefinition implements MissionDefinitionPlugin {
 		
 		// These show up as items in the bulleted list under 
 		// "Tactical Objectives" on the mission detail screen
-		api.addBriefingItem("'FATHER' WANTS YOU BACK.");
-		api.addBriefingItem("BRING 'MOTHER' HOME.");
-		api.addBriefingItem("BE THE BEST 'CHILD' YOU CAN BE.");
+		api.addBriefingItem("Don't let Honor get too close to the Berserker.");
+		api.addBriefingItem("Ryhpez is a distraction.");
+		api.addBriefingItem("Remove the Arbiter. He is nothing but a scout.");
 		
 		// Set up the player's fleet.  Variant names come from the
 		// files in data/variants and data/variants/fighters
