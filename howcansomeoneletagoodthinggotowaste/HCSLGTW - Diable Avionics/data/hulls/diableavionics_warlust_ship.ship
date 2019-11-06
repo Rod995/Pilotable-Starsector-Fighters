@@ -99,7 +99,7 @@
       ],
       "mount": "TURRET",
       "size": "SMALL",
-      "type": "HYBRID"
+      "type": "BUILT_IN"
     },
     {
       "angle": 0,
