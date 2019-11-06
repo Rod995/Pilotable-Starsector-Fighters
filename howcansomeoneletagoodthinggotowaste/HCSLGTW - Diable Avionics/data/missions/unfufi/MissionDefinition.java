@@ -26,7 +26,7 @@ public class MissionDefinition implements MissionDefinitionPlugin {
 		// "Tactical Objectives" on the mission detail screen
 		api.addBriefingItem("Don't let Honor get too close to the Berserker.");
 		api.addBriefingItem("Ryhpez is a distraction.");
-		api.addBriefingItem("Remove the Arbiter. He is nothing but a scout.");
+		api.addBriefingItem("Remove the Arbiter. Spotters are vulnerable, but effective.");
 		
 		// Set up the player's fleet.  Variant names come from the
 		// files in data/variants and data/variants/fighters
