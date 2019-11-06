@@ -11,7 +11,7 @@
   "modules": [],
   "permaMods": [],
   "quality": 0,
-  "variantId": "diableavionics_zephyr_ship_standard",
+  "variantId": "diableavionics_zephyr_ship_variant",
   "weaponGroups": [
     {
       "autofire": true,
