@@ -14,8 +14,8 @@ public class MissionDefinition implements MissionDefinitionPlugin {
 		// Set up the fleets so we can add ships and fighter wings to them.
 		// In this scenario, the fleets are attacking each other, but
 		// in other scenarios, a fleet may be defending or trying to escape
-		api.initFleet(FleetSide.PLAYER, "HAAH", FleetGoal.ATTACK, false);
-		api.initFleet(FleetSide.ENEMY, "AAL", FleetGoal.ATTACK, true);
+		api.initFleet(FleetSide.PLAYER, "XI", FleetGoal.ATTACK, false);
+		api.initFleet(FleetSide.ENEMY, "BRE", FleetGoal.ATTACK, true);
 
 		// Set a small blurb for each fleet that shows up on the mission detail and
 		// mission results screens to identify each side.
@@ -24,22 +24,24 @@ public class MissionDefinition implements MissionDefinitionPlugin {
 		
 		// These show up as items in the bulleted list under 
 		// "Tactical Objectives" on the mission detail screen
-		api.addBriefingItem("FATHER WANTS YOU BACK");
-		api.addBriefingItem("BRING MOTHER HOME");
-		api.addBriefingItem("BE THE BEST CHILD YOU CAN BE");
+		api.addBriefingItem("'FATHER' WANTS YOU BACK.");
+		api.addBriefingItem("BRING 'MOTHER' HOME.");
+		api.addBriefingItem("BE THE BEST 'CHILD' YOU CAN BE.");
 		
 		// Set up the player's fleet.  Variant names come from the
 		// files in data/variants and data/variants/fighters
-        api.addToFleet(FleetSide.PLAYER, "diableavionics_warlust_ship_variant", FleetMemberType.SHIP,"MOTHER", true);
+        api.addToFleet(FleetSide.PLAYER, "diableavionics_warlust_ship_variant", FleetMemberType.SHIP,"BR-K3R", true);
 		
 
 		// Enemies.
-		api.addToFleet(FleetSide.ENEMY, "diableavionics_arbitrator_ship_variant", FleetMemberType.SHIP,"F", true);
-		api.addToFleet(FleetSide.ENEMY, "diableavionics_strife_ship_variant", FleetMemberType.SHIP,"A", true);
-		api.addToFleet(FleetSide.ENEMY, "diableavionics_valiant_ship_variant", FleetMemberType.SHIP,"T", true);
-		api.addToFleet(FleetSide.ENEMY, "diableavionics_warlust_ship_variant", FleetMemberType.SHIP,"H", true);
-		api.addToFleet(FleetSide.ENEMY, "diableavionics_frost_ship_variant", FleetMemberType.SHIP,"E", true);
-		api.addToFleet(FleetSide.ENEMY, "diableavionics_zephyr_ship_variant", FleetMemberType.SHIP,"R", true);
+		// No, it is *not* friccin. It is *friction* with an apostrophe.
+		api.addToFleet(FleetSide.ENEMY, "diableavionics_strife_ship_variant", FleetMemberType.SHIP,"Frict'n", true);
+		api.addToFleet(FleetSide.ENEMY, "diableavionics_arbitrator_ship_variant", FleetMemberType.SHIP,"Arbiter", true);
+		api.addToFleet(FleetSide.ENEMY, "diableavionics_warlust_ship_variant", FleetMemberType.SHIP,"Tussle", true);
+		api.addToFleet(FleetSide.ENEMY, "diableavionics_valiant_ship_variant", FleetMemberType.SHIP,"Honor", true);
+		api.addToFleet(FleetSide.ENEMY, "diableavionics_frost_ship_variant", FleetMemberType.SHIP,"Exposure", true);
+		// Conican is a really lazy ship namer.
+		api.addToFleet(FleetSide.ENEMY, "diableavionics_zephyr_ship_variant", FleetMemberType.SHIP,"Ryhpez", true);
 
 		// Map
 		float width = 15000f;

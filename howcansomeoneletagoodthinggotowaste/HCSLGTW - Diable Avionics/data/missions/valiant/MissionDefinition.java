@@ -34,17 +34,17 @@ public class MissionDefinition implements MissionDefinitionPlugin {
         api.setHyperspaceMode(true);
 
 
-        api.addToFleet(FleetSide.PLAYER, "diableavionics_valiant_ship_variant", FleetMemberType.SHIP,"Experimental VSS", true);
+        api.addToFleet(FleetSide.PLAYER, "diableavionics_valiant_ship_variant", FleetMemberType.SHIP,"Experimental Mini-Frigate", true);
 
         // Set up the enemy fleet.                
-        api.addToFleet(FleetSide.ENEMY, "diableavionics_arbitrator_ship_variant", FleetMemberType.SHIP,"H", false);
-        api.addToFleet(FleetSide.ENEMY, "diableavionics_arbitrator_ship_variant", FleetMemberType.SHIP,"K", false);
-        api.addToFleet(FleetSide.ENEMY, "diableavionics_arbitrator_ship_variant", FleetMemberType.SHIP,"N", false);
-        api.addToFleet(FleetSide.ENEMY, "diableavionics_arbitrator_ship_variant", FleetMemberType.SHIP,"Q", false);
+        api.addToFleet(FleetSide.ENEMY, "diableavionics_arbitrator_ship_variant", FleetMemberType.SHIP,"I", false);
+        api.addToFleet(FleetSide.ENEMY, "diableavionics_arbitrator_ship_variant", FleetMemberType.SHIP,"IV", false);
+        api.addToFleet(FleetSide.ENEMY, "diableavionics_arbitrator_ship_variant", FleetMemberType.SHIP,"X", false);
+        api.addToFleet(FleetSide.ENEMY, "diableavionics_arbitrator_ship_variant", FleetMemberType.SHIP,"XI", false);
 
         // Set up the map.
-        float width = 4000f;
-        float height = 8000f;
+        float width = 6000f;
+        float height = 12000f;
         api.initMap((float)-width/2f, (float)width/2f, (float)-height/2f, (float)height/2f);
 
         float minX = -width/2;
