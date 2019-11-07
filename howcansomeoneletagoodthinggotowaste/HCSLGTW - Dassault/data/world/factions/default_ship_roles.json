@@ -1,0 +1,239 @@
+{
+	# should be a copy of "combatSmall", minus variants that are annoying to fight in low numbers
+	# for example, no Hyperions or fast beam-based kiting loadouts, or ships with damper field
+	"combatSmallForSmallFleet":{
+		"istl_burya_std":8,
+		"istl_burya_assault":6,
+		"istl_burya_antifighter":6,
+		"istl_burya_support":4,
+		"istl_stoat_std":10,
+		"istl_stoat_escort":8,
+		"istl_stoat_support":5,
+		"istl_naja_elite":1,
+		"istl_naja_std":4,
+		"istl_naja_support":2,
+		"istl_vesper_std":10,
+		"istl_vesper_support":8,
+		"istl_vesper_assault":6,
+		"istl_vesper_patrol":4,
+		
+		"istl_naja_export":4,
+	
+		"istl_naja_mk1_std":5,
+		"istl_naja_mk1_brawl":2,
+		
+		"istl_imp_assault":8,
+		"istl_imp_support":10,
+		"istl_imp_picket":8,
+		"istl_snakeeye_attack":10,
+		"istl_snakeeye_std":8,
+		"istl_snakeeye_defense":8,
+		"istl_snakeeye_cqb":8,
+		
+		"istl_ifrit_std":5,
+		"istl_imp_proto_test":10,
+		
+		"fallback":{"combatSmall":1},
+	},
+	"combatSmall":{
+		"istl_burya_std":8,
+		"istl_burya_assault":6,
+		"istl_burya_antifighter":6,
+		"istl_burya_support":4,
+		"istl_stoat_std":10,
+		"istl_stoat_escort":8,
+		"istl_stoat_support":5,
+		"istl_naja_elite":1,
+		"istl_naja_std":5,
+		"istl_naja_support":3,
+		"istl_vesper_std":10,
+		"istl_vesper_support":8,
+		"istl_vesper_assault":6,
+		"istl_vesper_patrol":4,
+		"istl_vesper_6e_elite":3,
+		
+		"istl_naja_mk1_std":4,
+		"istl_naja_mk1_brawl":4,
+		
+		"istl_imp_assault":8,
+		"istl_imp_support":10,
+		"istl_imp_picket":8,
+		"istl_snakeeye_support":10,
+		"istl_snakeeye_attack":10,
+		"istl_snakeeye_std":8,
+		"istl_snakeeye_defense":6,
+		"istl_snakeeye_cqb":6,
+		
+		"istl_ifrit_std":10,
+		"tempest_righthand":5,
+			
+		"fallback":{"combatMedium":0.5},
+	},
+	"combatMedium":{
+		"istl_wanderer_std":10,
+		"istl_wanderer_support":7,
+		"istl_tereshkova_support":5,
+		"istl_tunguska_std":10,
+		"istl_tunguska_assault":6,
+		"istl_tunguska_fsup":6,
+		"istl_tunguska_6e_elite":2,
+		
+		"istl_devilray_support":10,
+		"istl_devilray_strike":8,
+		"istl_curse_attack":6,
+		"istl_spearhead_std":10,
+		"istl_spearhead_support":8,
+		"istl_spearhead_strike":8,
+		"istl_spearhead_def":4,
+		
+		"istl_crasher_std":8,
+		"istl_slammer_std":4,
+		
+		"fallback":{"combatSmall":1},
+	},
+	"combatLarge":{
+		"istl_kormoran_std":10,
+		"istl_kormoran_command":8,
+		"istl_kormoran_pbeam":4,
+		"istl_kormoran_6e_elite":1,
+		"istl_baikal_std":10,
+		"istl_baikal_cqb":8,
+		"istl_baikal_arty":8,
+		"istl_baikal_sniper":4,
+		"istl_baikal_brone_elite":2,
+		"istl_tonnerre_std":8,
+		"istl_tonnerre_support":4,
+		"istl_tonnerre_area":2,
+		"istl_snowgoose_std":2,
+		
+		"istl_stormkestrel_elite":8,
+		"istl_stormkestrel_command":10,
+		"istl_stormkestrel_assault":6,
+		"istl_stormkestrel_cqb":6,
+		
+		"istl_blacklancer_std":10,
+
+		"fallback":{"combatMedium":1},
+	},
+	"combatCapital":{
+		"istl_zelenograd_std":10,
+		"istl_zelenograd_explore":6,
+		"istl_zelenograd_battle":4,
+		
+		"fallback":{"combatLarge":1},
+	},
+	
+	
+	# hybrid ships with good combat and cargo capacity
+	"combatFreighterSmall":{
+		"istl_bouclier_std":10,
+		"istl_starsylph_std":2,
+				
+		"istl_puddlejumper_mk1_std":5,
+
+		"fallback":{"freighterSmall":1},
+	},
+	"combatFreighterMedium":{
+		"istl_lodestar_std":10,
+		"istl_lodestar_heavy":5,
+		"istl_mouflon_std":4,
+		"istl_mouflon_fsup":1,
+		"istl_tereshkova_std":4,
+		"istl_tereshkova_tech":2,
+		
+		"istl_lodestar_export":4,
+		"istl_tereshkova_export":2,
+		
+		"istl_sevastopol_mk1_std":3,
+		
+		"fallback":{"combatFreighterSmall":1},
+	},
+	"combatFreighterLarge":{
+		"istl_centaur_std":10,
+		"istl_centaur_balanced":10,
+		"istl_centaur_elite":8,
+		"istl_centaur_support":5,
+		"istl_baikal_support":2,
+		"istl_tereshkova_tech":4,
+		"istl_tereshkova_support":2,
+		
+		"fallback":{"combatFreighterMedium":1},
+	},
+	
+	"civilianRandom":{
+		"istl_tereshkova_std":4,
+		"istl_puddlejumper_std":10,
+		"istl_puddlejumper_hispeed":8,
+		"istl_puddlejumper_balanced":6,
+		"istl_flatmouse_std":5,
+		"istl_chamois_std":5,
+		"istl_bouclier_std":3,
+		"istl_starsylph_std":1,
+		
+		"istl_puddlejumper_export":8,
+		"istl_centaur_export":4,
+	},
+
+	# carriers
+	"carrierSmall":{
+		"istl_leyte_std":10,
+		"istl_leyte_patrol":6,
+		"istl_leyte_balanced":4,
+		
+		"istl_curse_defense":8,
+		"istl_curse_support":10,
+		"istl_curse_attack":6,
+		
+		"istl_curse_proto_test":8,
+
+		"fallback":{"carrierMedium":0.5},
+		"fallback2":{"carrierLarge":0.25},
+	},
+	"carrierMedium":{
+		"istl_mindanao_std":10,
+		"istl_mindanao_patrol":8,
+		"istl_mindanao_support":8,
+		"istl_mindanao_balanced":8,
+
+		"fallback":{"carrierSmall":1},
+		"fallback2":{"carrierLarge":0.5},
+	},
+	"carrierLarge":{
+		"istl_jeannedarc_std":10,
+		"istl_jeannedarc_attack":6,
+		"istl_jeannedarc_support":4,
+		
+		"istl_warlock_std":10,
+		"istl_warlock_assault":8,
+				
+		"fallback":{"carrierMedium":1},
+		"fallback2":{"carrierSmall":1},
+	},
+
+	# phase ships
+	"phaseSmall":{
+		"istl_borzoi_elite":10,
+		"istl_borzoi_support":2,
+		
+		"istl_demon_std":10,
+				
+		"fallback":{"phaseMedium":0.5},
+		"fallback2":{"phaseLarge":0.25},
+	},
+	"phaseMedium":{
+		"istl_maskirovka_std":10,
+		"istl_maskirovka_elite":7,
+		"istl_maskirovka_support":3,
+
+		"istl_devilray_std":8,
+		"istl_devilray_support":10,
+		"istl_devilray_strike":6,
+		
+		"fallback":{"phaseSmall":1},
+		"fallback2":{"phaseLarge":0.5},
+	},
+	"phaseLarge":{
+	},
+	"phaseCapital":{
+	},
+}
