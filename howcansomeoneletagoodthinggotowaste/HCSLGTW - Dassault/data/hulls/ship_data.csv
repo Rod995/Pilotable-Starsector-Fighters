@@ -9,7 +9,7 @@ Spirale-S,istl_flare_ship,Solo Frigate,Dassault-Mikoyan,istl_pulsejets_ftr,1,600
 Harridan-S,istl_harridan_ship,Solo Frigate,Dassault-Mikoyan,istl_pulsejets_ftr,1,500,75,750,,100,0,,350,500,350,120,250,30,NONE,,0,0,0,,,1,1,,,,,,,,,,,,,,"mid, dmecore_bp",,0,0,3,101
 Demoiselle-S,istl_damselfly_ship,Solo Frigate,Dassault-Mikoyan,,1,500,100,500,,50,0,,180,120,60,60,150,45,NONE,,0,0,0,,,3,3,,,,,,,,,,,,,,"mid, dmeadv_bp",,0,0,3,103
 Aigrette-S,istl_egret_ship,Solo Frigate,Dassault-Mikoyan,,1,450,50,1000,,150,0,,200,150,95,105,180,30,OMNI,,90,0,1,,,2,2,,,,,,,,,,,,,,,,0,0,3,102
-Mystère-S,istl_mystere_ship,Solo Frigate,Dassault-Mikoyan,istl_decoyflares_fighter,1,682,150,400,,75,0,,180,180,150,75,180,35,NONE,,0,0,0,,,2,2,,,,,,,,,,,,,,,,0,0,3,103
+Mystere-S,istl_mystere_ship,Solo Frigate,Dassault-Mikoyan,istl_decoyflares_fighter,1,682,150,400,,75,0,,180,180,150,75,180,35,NONE,,0,0,0,,,2,2,,,,,,,,,,,,,,,,0,0,3,103
 Icax-S,istl_icax_ship,Solo Frigate,Dassault-Mikoyan,istl_mirage_ftr,1,500,50,750,,100,0,,300,240,200,120,180,40,OMNI,,90,0,1.2,,,2,2,,,,,,,,,,,,,,,,0,0,3,104
 Rafale-S,istl_rafale_ship,Solo Frigate,Dassault-Mikoyan,istl_decoyflares_fighter,1,300,50,250,,75,0,,200,350,250,90,180,25,OMNI,,180,0,1,,,1,1,,,,,,,,,,,,,,,,0,0,3,101
 Rafale-S II,istl_rafale2_ship,Solo Frigate,Dassault-Mikoyan,istl_decoyflares_fighter,1,500,50,500,,50,0,,150,180,135,30,120,40,OMNI,,180,0,1,,,2,2,,,,,,,,,,,,,,,,0,0,3,106
