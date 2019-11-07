@@ -232,8 +232,4 @@
 		"fallback":{"phaseSmall":1},
 		"fallback2":{"phaseLarge":0.5},
 	},
-	"phaseLarge":{
-	},
-	"phaseCapital":{
-	},
 }
