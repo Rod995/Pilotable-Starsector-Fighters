@@ -5,7 +5,11 @@ On the other hand, it doesn't support vanilla at all.
 
 ### Currently Supported:
 
-Mod Name | Completion Level
--------- | ----------------
-Diable Avionics | 100%
-Dassault-(Mikoyan)? | 40%
+Mod Name | Completion Level | Bugs?
+-------- | ---------------- | -----
+Diable Avionics | 90% | [1], [2]
+Dassault-Mikoyan | 40% | NaN
+
+### Current Bugs:
+
+ [1] - Zephyr will crash with a null error due to missing weapons, either side. Will attempt to remedy this by separating its arms from its weapons.
