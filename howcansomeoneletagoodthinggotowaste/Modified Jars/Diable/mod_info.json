@@ -1,0 +1,10 @@
+{
+  "id":"diableavionics_fighter_fixpr",
+	"name":"Diable Avionics Modified Production",
+	"author":"Created by Flashfrozen, Maintained by Tartiflette, with the participation of Debido.",
+	"version":"2.04",
+	"description":"Claiming ownership over the possessions of millions seems to be a bold claim, but is one the Diable Avionics Corporation intends to enforce, with deadly means if necessary.  Modified by Rod99 to work with PSF.",
+	"gameVersion":"0.9.1a",
+	"jars":["DIABLEAVIONICSWORKINGSET.jar"],
+	"modPlugin":"data.scripts.DAModPlugin",
+}

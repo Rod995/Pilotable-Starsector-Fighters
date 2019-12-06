@@ -1,29 +1,29 @@
 name,id,designation,tech/manufacturer,system id,fleet pts,hitpoints,armor rating,max flux,8/6/5/4%,flux dissipation,ordnance points,fighter bays,max speed,acceleration,deceleration,max turn rate,turn acceleration,mass,shield type,defense id,shield arc,shield upkeep,shield efficiency,phase cost,phase upkeep,min crew,max crew,cargo,fuel,fuel/ly,range,max burn,base value,cr %/day,CR to deploy,peak CR sec,CR loss/sec,supplies/rec,supplies/mo,hints,tags,rarity,breakProb,minPieces,maxPieces,number
-Zone-S,istl_zone_ship,Solo Frigate,Dassault-Mikoyan,,1,75,25,300,,50,8,,300,450,450,240,250,5,NONE,,0,0,0,,,0,0,,,,,,,,,,,,,,"no_sell, rare_bp",,0,0,3,110
-Oryol-S,istl_oryol_ship,Solo Frigate,Dassault-Mikoyan,,1,225,75,750,,75,0,,250,300,300,210,225,7,NONE,,0,0,0,,,0,0,,,,,,,,,,,,,,dmecivil_bp,,0,0,3,111
-Foil-S,istl_funnel_ship,Solo Frigate,Dassault-Mikoyan,,1,200,50,500,,50,4,,350,600,600,240,500,5,NONE,,0,0,0,,,0,0,,,,,,,,,,,,,,dmeadv_bp,,0,0,3,112
-Goalkeeper-S,istl_goalkeeper_ship,Solo Frigate,Dassault-Mikoyan,,1,225,50,600,,150,0,,250,300,300,180,225,10,FRONT,,360,0,1,,,0,0,,,,,,,,,,,,,,"no_sell, rare_bp",,0,0,3,113
-Sauterelle-S,istl_sauterelle_ship,Solo Frigate,Dassault-Mikoyan,,1,400,100,800,,100,0,,180,300,300,180,225,15,FRONT,,120,0,1,,,0,0,,,,,,,,,,,,,,rare_bp,,0,0,3,114
-Dard-S,istl_dard_ship,Solo Frigate,Dassault-Mikoyan,istl_pulsejets_ftr,1,100,15,500,,75,0,,300,450,400,150,300,12,NONE,,0,0,0,,,0,0,,,,,,,,,,,,,,"high, dmecore_bp",,0,0,3,115
-Spirale-S,istl_flare_ship,Solo Frigate,Dassault-Mikoyan,istl_pulsejets_ftr,1,600,75,400,,100,0,,200,300,250,105,150,30,NONE,,0,0,0,,,1,1,,,,,,,,,,,,,,"mid, dmecore_bp",,0,0,3,116
-Harridan-S,istl_harridan_ship,Solo Frigate,Dassault-Mikoyan,istl_pulsejets_ftr,1,500,75,750,,100,0,,350,500,350,120,250,30,NONE,,0,0,0,,,1,1,,,,,,,,,,,,,,"mid, dmecore_bp",,0,0,3,117
-Demoiselle-S,istl_damselfly_ship,Solo Frigate,Dassault-Mikoyan,,1,500,100,500,,50,0,,180,120,60,60,150,45,NONE,,0,0,0,,,3,3,,,,,,,,,,,,,,"mid, dmeadv_bp",,0,0,3,118
-Aigrette-S,istl_egret_ship,Solo Frigate,Dassault-Mikoyan,,1,450,50,1000,,150,0,,200,150,95,105,180,30,OMNI,,90,0,1,,,2,2,,,,,,,,,,,,,,,,0,0,3,119
-Mystere-S,istl_mystere_ship,Solo Frigate,Dassault-Mikoyan,istl_decoyflares_fighter,1,682,150,400,,75,0,,180,180,150,75,180,35,NONE,,0,0,0,,,2,2,,,,,,,,,,,,,,,,0,0,3,120
-Icax-S,istl_icax_ship,Solo Frigate,Dassault-Mikoyan,istl_mirage_ftr,1,500,50,750,,100,0,,300,240,200,120,180,40,OMNI,,90,0,1.2,,,2,2,,,,,,,,,,,,,,,,0,0,3,121
-Rafale-S,istl_rafale_ship,Solo Frigate,Dassault-Mikoyan,istl_decoyflares_fighter,1,300,50,250,,75,0,,200,350,250,90,180,25,OMNI,,180,0,1,,,1,1,,,,,,,,,,,,,,,,0,0,3,122
-Rafale-S II,istl_rafale2_ship,Solo Frigate,Dassault-Mikoyan,istl_decoyflares_fighter,1,500,50,500,,50,0,,150,180,135,30,120,40,OMNI,,180,0,1,,,2,2,,,,,,,,,,,,,,,,0,0,3,123
-Pup-S,istl_pup_ship,Solo Frigate,Dassault-Mikoyan (Refit),istl_decoyflares_low_fighter,1,450,150,750,,100,0,,150,120,60,100,180,50,NONE,,0,0,0,,,2,2,,,,,,,,,,,,,,,,0,0,3,124
-Hummingbird-S,istl_hummingbird_ship,Solo Frigate,United Security,istl_decoyflares_low_fighter,1,450,50,600,,75,0,,300,160,100,120,240,15,NONE,,0,0,0,,,1,1,,,,,,,,,,,,,HIDE_IN_CODEX,,,0,0,3,125
-Fletcher-S,istl_fletcher_ship,Solo Frigate,United Security,,1,500,75,200,,100,0,,150,200,200,40,120,30,NONE,,0,0,0,,,2,2,,,,,,,,,,,,,HIDE_IN_CODEX,,,0,0,3,126
-Thunderhead-S,istl_thunderbolt_ship,Solo Frigate,United Security,flarelauncher_fighter,1,550,100,750,,150,0,,150,120,50,105,150,50,FRONT,,90,0,1.2,,,2,2,,,,,,,,,,,,,HIDE_IN_CODEX,,,0,0,3,127
-Lycosid-S,istl_lycosid_ship,Solo Frigate,Blade Breakers,istl_BBdecoyflare,1,120,15,500,,50,0,,360,500,400,180,350,9,NONE,,0,0,0,,,0,0,,,,,,,,,,,,,HIDE_IN_CODEX,,,0,0,3,128
-Iridium-S,istl_iridium_ship,Solo Frigate,Blade Breakers,istl_BBpulsejets,1,450,75,450,,75,0,,180,250,200,80,180,30,OMNI,,150,0,1,,,0,0,,,,,,,,,,,,,HIDE_IN_CODEX,,,0,0,3,129
-Firespray-S,istl_firespray_ship,Solo Frigate,Blade Breakers,,1,400,100,300,,50,0,,200,400,320,120,210,10,NONE,,0,0,0,,,1,1,,,,,,,,,,,,,HIDE_IN_CODEX,,,0,0,3,130
-Hellion-S,istl_hellion_ship,Solo Frigate,Blade Breakers,,1,500,100,900,,150,0,,180,150,95,105,180,30,PHASE,istl_BBphasecloak_ftr,,,,0.05,0.05,1,1,,,,,,,,,,,,,"HIDE_IN_CODEX, PHASE",,,0,0,3,131
-Focuser-S,istl_focuser_ship,Solo Frigate,Blade Breakers,istl_BBpulsejets,1,400,75,300,,75,0,,180,250,200,80,180,30,OMNI,,150,0,1,,,1,1,,,,,,,,,,,,,HIDE_IN_CODEX,,,0,0,3,132
-Defense Bit-S,istl_tempestdrone_ship,Solo Frigate,Deserter,,1,600,150,400,,125,0,,250,300,300,210,225,6,FRONT,,270,0,1,,,0,0,,,,,,,,,,,,,HIDE_IN_CODEX,,,0,0,3,133
-Skink-S,istl_skink_ship,Solo Frigate,Deserter,,1,150,25,150,,75,0,,300,450,400,150,300,12,NONE,,0,0,0,,,0,0,,,,,,,,,,,,,HIDE_IN_CODEX,,,0,0,3,134
-Fire Beetle-S,istl_firebeetle_ship,Solo Frigate,Deserter,,1,600,100,500,,150,0,,180,300,250,105,200,40,OMNI,,120,0,1,,,1,1,,,,,,,,,,,,,HIDE_IN_CODEX,,,0,0,3,135
-Brisance-S,istl_lightbomber_ship,Solo Frigate,Deserter,,1,600,125,500,,120,0,,180,240,200,40,120,40,OMNI,,150,0,1,,,2,2,,,,,,,,,,,,,HIDE_IN_CODEX,,,0,0,3,136
-Spooky-S,istl_spooky_ship,Solo Frigate,Deserter,istl_BBdecoyflare,1,1000,200,1000,,400,0,,150,300,300,135,240,105,OMNI,,180,0,1,,,4,4,,,,,,,,,,,,,HIDE_IN_CODEX,,,0,0,3,137
+Zone-S,istl_zone_ship,Solo Frigate,Dassault-Mikoyan,,1,75,25,300,,50,8,,300,450,450,240,250,5,NONE,,0,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,"no_sell, rare_bp",,0,0,3,110
+Oryol-S,istl_oryol_ship,Solo Frigate,Dassault-Mikoyan,,1,225,75,750,,75,0,,250,300,300,210,225,7,NONE,,0,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,dmecivil_bp,,0,0,3,111
+Foil-S,istl_funnel_ship,Solo Frigate,Dassault-Mikoyan,,1,200,50,500,,50,4,,350,600,600,240,500,5,NONE,,0,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,dmeadv_bp,,0,0,3,112
+Goalkeeper-S,istl_goalkeeper_ship,Solo Frigate,Dassault-Mikoyan,,1,225,50,600,,150,0,,250,300,300,180,225,10,FRONT,,360,0,1,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,"no_sell, rare_bp",,0,0,3,113
+Sauterelle-S,istl_sauterelle_ship,Solo Frigate,Dassault-Mikoyan,,1,400,100,800,,100,0,,180,300,300,180,225,15,FRONT,,120,0,1,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,rare_bp,,0,0,3,114
+Dard-S,istl_dard_ship,Solo Frigate,Dassault-Mikoyan,istl_pulsejets_ftr,1,100,15,500,,75,0,,300,450,400,150,300,12,NONE,,0,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,"high, dmecore_bp",,0,0,3,115
+Spirale-S,istl_flare_ship,Solo Frigate,Dassault-Mikoyan,istl_pulsejets_ftr,1,600,75,400,,100,0,,200,300,250,105,150,30,NONE,,0,0,0,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,,"mid, dmecore_bp",,0,0,3,116
+Harridan-S,istl_harridan_ship,Solo Frigate,Dassault-Mikoyan,istl_pulsejets_ftr,1,500,75,750,,100,0,,350,500,350,120,250,30,NONE,,0,0,0,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,,"mid, dmecore_bp",,0,0,3,117
+Demoiselle-S,istl_damselfly_ship,Solo Frigate,Dassault-Mikoyan,,1,500,100,500,,50,0,,180,120,60,60,150,45,NONE,,0,0,0,,,3,3,0,0,0,0,0,0,0,0,0,0,0,0,,"mid, dmeadv_bp",,0,0,3,118
+Aigrette-S,istl_egret_ship,Solo Frigate,Dassault-Mikoyan,,1,450,50,1000,,150,0,,200,150,95,105,180,30,OMNI,,90,0,1,,,2,2,0,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,3,119
+Mystere-S,istl_mystere_ship,Solo Frigate,Dassault-Mikoyan,istl_decoyflares_fighter,1,682,150,400,,75,0,,180,180,150,75,180,35,NONE,,0,0,0,,,2,2,0,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,3,120
+Icax-S,istl_icax_ship,Solo Frigate,Dassault-Mikoyan,istl_mirage_ftr,1,500,50,750,,100,0,,300,240,200,120,180,40,OMNI,,90,0,1.2,,,2,2,0,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,3,121
+Rafale-S,istl_rafale_ship,Solo Frigate,Dassault-Mikoyan,istl_decoyflares_fighter,1,300,50,250,,75,0,,200,350,250,90,180,25,OMNI,,180,0,1,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,3,122
+Rafale-S II,istl_rafale2_ship,Solo Frigate,Dassault-Mikoyan,istl_decoyflares_fighter,1,500,50,500,,50,0,,150,180,135,30,120,40,OMNI,,180,0,1,,,2,2,0,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,3,123
+Pup-S,istl_pup_ship,Solo Frigate,Dassault-Mikoyan (Refit),istl_decoyflares_low_fighter,1,450,150,750,,100,0,,150,120,60,100,180,50,NONE,,0,0,0,,,2,2,0,0,0,0,0,0,0,0,0,0,0,0,,,,0,0,3,124
+Hummingbird-S,istl_hummingbird_ship,Solo Frigate,United Security,istl_decoyflares_low_fighter,1,450,50,600,,75,0,,300,160,100,120,240,15,NONE,,0,0,0,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,HIDE_IN_CODEX,,,0,0,3,125
+Fletcher-S,istl_fletcher_ship,Solo Frigate,United Security,,1,500,75,200,,100,0,,150,200,200,40,120,30,NONE,,0,0,0,,,2,2,0,0,0,0,0,0,0,0,0,0,0,0,HIDE_IN_CODEX,,,0,0,3,126
+Thunderhead-S,istl_thunderbolt_ship,Solo Frigate,United Security,flarelauncher_fighter,1,550,100,750,,150,0,,150,120,50,105,150,50,FRONT,,90,0,1.2,,,2,2,0,0,0,0,0,0,0,0,0,0,0,0,HIDE_IN_CODEX,,,0,0,3,127
+Lycosid-S,istl_lycosid_ship,Solo Frigate,Blade Breakers,istl_BBdecoyflare,1,120,15,500,,50,0,,360,500,400,180,350,9,NONE,,0,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,HIDE_IN_CODEX,,,0,0,3,128
+Iridium-S,istl_iridium_ship,Solo Frigate,Blade Breakers,istl_BBpulsejets,1,450,75,450,,75,0,,180,250,200,80,180,30,OMNI,,150,0,1,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,HIDE_IN_CODEX,,,0,0,3,129
+Firespray-S,istl_firespray_ship,Solo Frigate,Blade Breakers,,1,400,100,300,,50,0,,200,400,320,120,210,10,NONE,,0,0,0,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,HIDE_IN_CODEX,,,0,0,3,130
+Hellion-S,istl_hellion_ship,Solo Frigate,Blade Breakers,,1,500,100,900,,150,0,,180,150,95,105,180,30,PHASE,istl_BBphasecloak_ftr,,,,0.05,0.05,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"HIDE_IN_CODEX, PHASE",,,0,0,3,131
+Focuser-S,istl_focuser_ship,Solo Frigate,Blade Breakers,istl_BBpulsejets,1,400,75,300,,75,0,,180,250,200,80,180,30,OMNI,,150,0,1,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,HIDE_IN_CODEX,,,0,0,3,132
+Defense Bit-S,istl_tempestdrone_ship,Solo Frigate,Deserter,,1,600,150,400,,125,0,,250,300,300,210,225,6,FRONT,,270,0,1,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,HIDE_IN_CODEX,,,0,0,3,133
+Skink-S,istl_skink_ship,Solo Frigate,Deserter,,1,150,25,150,,75,0,,300,450,400,150,300,12,NONE,,0,0,0,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,HIDE_IN_CODEX,,,0,0,3,134
+Fire Beetle-S,istl_firebeetle_ship,Solo Frigate,Deserter,,1,600,100,500,,150,0,,180,300,250,105,200,40,OMNI,,120,0,1,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,HIDE_IN_CODEX,,,0,0,3,135
+Brisance-S,istl_lightbomber_ship,Solo Frigate,Deserter,,1,600,125,500,,120,0,,180,240,200,40,120,40,OMNI,,150,0,1,,,2,2,0,0,0,0,0,0,0,0,0,0,0,0,HIDE_IN_CODEX,,,0,0,3,136
+Spooky-S,istl_spooky_ship,Solo Frigate,Deserter,istl_BBdecoyflare,1,1000,200,1000,,400,0,,150,300,300,135,240,105,OMNI,,180,0,1,,,4,4,0,0,0,0,0,0,0,0,0,0,0,0,HIDE_IN_CODEX,,,0,0,3,137
