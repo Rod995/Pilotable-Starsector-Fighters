@@ -8,7 +8,7 @@ On the other hand, it doesn't support vanilla at all.
 Mod Name | Completion Level | Bugs? | Deviations 
 -------- | ---------------- | ----- | ----------
 Diable Avionics | 90% | [II], [III] | [A]
-Dassault-Mikoyan | 40% | [III] | NaN
+Dassault-Mikoyan | 40% | [III] | [B]
 
 ### Current Bugs:
  
@@ -21,7 +21,9 @@ Dassault-Mikoyan | 40% | [III] | NaN
 
 ### Deviations:
 
- [A] - Blizzaia + adds a missile autoloader, and *technically* fixes [2]. Problem is that it murders everything.
+ [A] - Blizzaia + adds a missile autoloader, and *technically* fixes [II]. Problem is that it murders everything.
+ 
+ [B] - The Foil Bit, the tiniest thingie, is somehow one of the ***strongest*** single ship fighters in the mod currently. Can even solo some small frigates, as long as there's no beams in play. No fighter can stand against beams.
 
 
 ### Fixed Bugs:
