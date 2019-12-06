@@ -1,7 +1,6 @@
 # Pilotable Starsector Fighters
 
- * *HowCanSomeoneLetaGoodThingGotoWaste* is a Starsector mod that makes fighters pilotable, even modded ones.
-On the other hand, it doesn't support vanilla at all.
+ *HowCanSomeoneLetaGoodThinggotoWaste (HCSLGTW) is a Starsector mod that makes fighters pilotable, even modded ones.*
 
 ## Currently Supported:
 
@@ -9,6 +8,20 @@ Mod Name | Completion Level | Bugs? | Deviations
 -------- | ---------------- | ----- | ----------
 Diable Avionics | 90% | [II], [III] | [A]
 Dassault-Mikoyan | 40% | [III] | [B]
+
+## Planned to be Supported:
+Mod Name | Completion Level | Confusion | Planned Implementation
+-------- | ---------------- | --------- | ----------------------
+Artefact | 0% | NaN | NaN
+Disassemble Reassemble | 0% | NaN | NaN
+Foundation of Borken | 0% | NaN | NaN
+NGO | 0% | NaN | NaN
+ORA | 0% | NaN | NaN
+SAD | 0% | NaN | NaN
+Shadowyards | 0% | NaN | NaN
+Ship and Weapon Pack | 0% | NaN | NaN
+Tyrador Safeguard Coalition | 0% | NaN | NaN
+
 
 ### Current Bugs:
  
@@ -31,7 +44,7 @@ Dassault-Mikoyan | 40% | [III] | [B]
  [I] - `Zephyr will crash with a null error due to missing weapons, either side. Will attempt to remedy this by separating its arms from its weapons.` 99% fixed as of commit 80a92a1. 
 
 
-## How to use custom Jars?
+## How to install custom Jars?
 
 * Diable Avionics - Dump the jar in the root folder of the Diable mod folder. Replace the `mod_info.json` with the one in the folder as well. Make sure to backup, just in case. ~~or just reinstall the mod~~ 
  
