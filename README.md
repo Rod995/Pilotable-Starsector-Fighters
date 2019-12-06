@@ -7,20 +7,29 @@ On the other hand, it doesn't support vanilla at all.
 
 Mod Name | Completion Level | Bugs? | Deviations 
 -------- | ---------------- | ----- | ----------
-Diable Avionics | 90% | [I], [II], [III] | [A]
+Diable Avionics | 90% | [II], [III] | [A]
 Dassault-Mikoyan | 40% | [III] | NaN
 
 ### Current Bugs:
-
- [I] - Zephyr will crash with a null error due to missing weapons, either side. Will attempt to remedy this by separating its arms from its weapons.
  
  [II] - Blizzaia is basically useless, as it has nothing but missiles, and one IBIS.
  
  [III] - All fighters cost over 50-60 supplies just to fix, starting from 0% CR.
- 
+
+ [IV] - Can't ever build the ships, as they will consume all your capacity instead. Dunno if fixed by commit f958bac.
  
 
 ### Deviations:
 
  [A] - Blizzaia + adds a missile autoloader, and *technically* fixes [2]. Problem is that it murders everything.
+
+
+### Fixed Bugs:
+
+ [I] - `Zephyr will crash with a null error due to missing weapons, either side. Will attempt to remedy this by separating its arms from its weapons.` 99% fixed as of commit 80a92a1. 
+
+
+## How to use custom Jars?
+
+* Diable Avionics - Dump the jar in the root folder of the Diable mod folder. Replace the `mod_info.json` with the one in the folder as well. Make sure to backup, just in case. ~~or just reinstall the mod~~ 
  
