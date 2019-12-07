@@ -14,7 +14,9 @@
       "autofire": false,
       "mode": "LINKED",
       "weapons": {
-        "WS0002": "diableavionics_arbitratorBooster"
+        "WS0001": "diableavionics_artassaut",
+        "WS0002": "diableavionics_arbitratorBooster",
+        "WS0003": "diableavionics_artassaut"
       }
     }
   ],
