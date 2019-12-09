@@ -1,5 +1,5 @@
 {
-  "displayName": "New Variant",
+  "displayName": "F3-OST",
   "fluxCapacitors": 1,
   "fluxVents": 0,
   "goalVariant": true,
@@ -20,7 +20,7 @@
       "weapons": {
         "WS0001": "diableavionics_frosthead",
         "WS0002": "diableavionics_frostLeftArm",
-        "WS0003": "diableavionics_frostBlade"
+        "WS0003": "diableavionics_frostBladeS"
       }
     }
   ],

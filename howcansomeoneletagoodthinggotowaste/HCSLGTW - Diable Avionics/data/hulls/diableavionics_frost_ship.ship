@@ -26,7 +26,6 @@
     "PAULDRON": "diableavionics_frostPauldron",
     "WS0001": "diableavionics_frosthead",
     "WS0002": "diableavionics_frostLeftArm",
-    "WS0003": "diableavionics_frostBlade"
   },
   "builtInWings": [],
   "center": [
@@ -99,15 +98,15 @@
     },
     {
       "angle": -20,
-      "arc": 0,
+      "arc": 10,
       "id": "WS0003",
       "locations": [
         0,
         -7
       ],
-      "mount": "HIDDEN",
+      "mount": "TURRET",
       "size": "SMALL",
-      "type": "BUILT_IN"
+      "type": "BALLISTIC"
     },
     {
       "angle": -20,
