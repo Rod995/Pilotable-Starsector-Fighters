@@ -5,12 +5,17 @@
 	"size":"SMALL",
 	"collisionClass":"RAY",
 	"collisionClassByFighter":"RAY_FIGHTER",
-	"turretSprite":"graphics/da/frost/diableavionics_frost_rightArm_modified_00.png",
-	"hardpointSprite":"graphics/da/frost/diableavionics_frost_rightArm_modified_00.png",	
+
+	#"turretSprite":"graphics/da/frost/diableavionics_frost_rightArm_modified_00.png",
+	#"hardpointSprite":"graphics/da/frost/diableavionics_frost_rightArm_modified_00.png",	
+
+	"turretSprite":"graphics/da/frost/separatefrostframes/diableavionics_frost_rightArm_example_00.png",
+	"hardpointSprite":"graphics/da/frost/separatefrostframes/diableavionics_frost_rightArm_example_00.png",
+
 	"turretGlowSprite":"",	
 	"hardpointGlowSprite":"",	
-	"numFrames":8,	
-	"frameRate":20,
+	"numFrames":14,	
+	"frameRate":25,
 	"turretOffsets":[12, 12],
 	"turretAngleOffsets":[5],
 	"hardpointOffsets":[12, 12],
