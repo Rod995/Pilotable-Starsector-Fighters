@@ -27,10 +27,6 @@
             "diableavionics_zephyr_ship",
         ],
     },
-    "knownFighters":{
-        "fighters":[
-        ],
-    },
     "knownWeapons":{
         "weapons":[
         ],
