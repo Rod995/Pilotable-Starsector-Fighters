@@ -1,21 +1,21 @@
 name,id,designation,tech/manufacturer,system id,fleet pts,hitpoints,armor rating,max flux,8/6/5/4%,flux dissipation,ordnance points,fighter bays,max speed,acceleration,deceleration,max turn rate,turn acceleration,mass,shield type,defense id,shield arc,shield upkeep,shield efficiency,phase cost,phase upkeep,min crew,max crew,cargo,fuel,fuel/ly,range,max burn,base value,cr %/day,CR to deploy,peak CR sec,CR loss/sec,supplies/rec,supplies/mo,hints,tags,rarity,breakProb,minPieces,maxPieces,number
-Broadsword S,broadsword_ship,Solo Fighter,Low Tech,flarelauncher_fighter,0,750,100,80,,10,0,0,200,400,350,90,180,30,NONE,,0,0,0,,,1,1,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,lowtech_bp,,0,0,3,600
+Broadsword S,broadsword_ship,Solo Fighter,Low Tech,flarelauncher_fighter,0,750,100,80,,10,40,0,200,400,350,90,180,30,NONE,,0,0,0,,,1,1,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,lowtech_bp,,0,0,3,600
 Claw S,claw_ship,Solo Fighter,High Tech,,0,300,25,150,,50,0,0,275,350,200,30,120,40,OMNI,,160,0,1,,,1,1,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,601
-Cobra S,cobra_ship,Solo Fighter,High Tech,,0,400,0,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,602
-Dagger S,dagger_ship,Solo Fighter,High Tech,,0,300,0,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,hightech_bp,,0,0,3,603
-Borer S,drone_borer_ship,Solo Fighter,,,0,200,0,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,,,0,0,3,604
-Terminator S,drone_terminator_ship,Solo Fighter,,,0,500,0,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,,,0,0,3,605
-Gladius S,gladius_ship,Solo Fighter,Midline,flarelauncher_single,0,500,0,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,midline_bp,,0,0,3,606
-Khopesh S,hoplon_ship,Solo Fighter,Low Tech,,0,500,0,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,607
-Longbow S,longbow_ship,Solo Fighter,High Tech,,0,300,0,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,608
-Lux S,lux_ship,Solo Fighter,Remnant,flarelauncher_fighter,0,400,0,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,,,0,0,3,609
-Mining Pod S,mining_drone_ship,Solo Fighter,Low Tech,,0,600,0,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,base_bp,,0,0,3,610
-Perdition S,perdition_ship,Solo Fighter,Low Tech,,0,400,0,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,611
-Piranha S,piranha_ship,Solo Fighter,Low Tech,,0,500,0,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,lowtech_bp,,0,0,3,612
-Spark S,spark_ship,Solo Fighter,Remnant,,0,300,0,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,,,0,0,3,613
-Talon S,talon_ship,Solo Fighter,Low Tech,,0,200,0,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,base_bp,,0,0,3,614
-Thunder S,thunder_ship,Solo Fighter,Midline,,0,500,0,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,615
-Trident S,trident_ship,Solo Fighter,High Tech,,0,500,0,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,616
-Warthog S,warthog_ship,Solo Fighter,Midline,flarelauncher_fighter,0,750,0,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,midline_bp,,0,0,3,617
-Wasp S,wasp_ship,Solo Fighter,High Tech,,0,100,0,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,hightech_bp,,0,0,3,618
-Xyphos S,xyphos_ship,Solo Fighter,HIgh Tech,,0,450,0,0,,0,0,0,0,0,0,0,0,0,,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,619
+Cobra S,cobra_ship,Solo Fighter,High Tech,,0,400,0,0,,0,0,0,0,0,0,0,0,0,NONE,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,602
+Dagger S,dagger_ship,Solo Fighter,High Tech,,0,300,0,0,,0,0,0,0,0,0,0,0,0,NONE,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,hightech_bp,,0,0,3,603
+Borer S,drone_borer_ship,Solo Fighter,,,0,200,0,0,,0,0,0,0,0,0,0,0,0,NONE,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,,,0,0,3,604
+Terminator S,drone_terminator_ship,Solo Fighter,,,0,500,0,0,,0,0,0,0,0,0,0,0,0,NONE,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,,,0,0,3,605
+Gladius S,gladius_ship,Solo Fighter,Midline,flarelauncher_single,0,500,0,0,,0,0,0,0,0,0,0,0,0,NONE,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,midline_bp,,0,0,3,606
+Khopesh S,hoplon_ship,Solo Fighter,Low Tech,,0,500,0,0,,0,0,0,0,0,0,0,0,0,NONE,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,607
+Longbow S,longbow_ship,Solo Fighter,High Tech,,0,300,0,0,,0,0,0,0,0,0,0,0,0,NONE,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,608
+Lux S,lux_ship,Solo Fighter,Remnant,flarelauncher_fighter,0,400,0,0,,0,0,0,0,0,0,0,0,0,NONE,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,,,0,0,3,609
+Mining Pod S,mining_drone_ship,Solo Fighter,Low Tech,,0,600,0,0,,0,0,0,0,0,0,0,0,0,NONE,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,base_bp,,0,0,3,610
+Perdition S,perdition_ship,Solo Fighter,Low Tech,,0,400,0,0,,0,0,0,0,0,0,0,0,0,NONE,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,611
+Piranha S,piranha_ship,Solo Fighter,Low Tech,,0,500,0,0,,0,0,0,0,0,0,0,0,0,NONE,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,lowtech_bp,,0,0,3,612
+Spark S,spark_ship,Solo Fighter,Remnant,,0,300,0,0,,0,0,0,0,0,0,0,0,0,NONE,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,,,0,0,3,613
+Talon S,talon_ship,Solo Fighter,Low Tech,,0,200,0,0,,0,0,0,0,0,0,0,0,0,NONE,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,base_bp,,0,0,3,614
+Thunder S,thunder_ship,Solo Fighter,Midline,,0,500,0,0,,0,0,0,0,0,0,0,0,0,NONE,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,615
+Trident S,trident_ship,Solo Fighter,High Tech,,0,500,0,0,,0,0,0,0,0,0,0,0,0,NONE,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,616
+Warthog S,warthog_ship,Solo Fighter,Midline,flarelauncher_fighter,0,750,0,0,,0,0,0,0,0,0,0,0,0,NONE,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,midline_bp,,0,0,3,617
+Wasp S,wasp_ship,Solo Fighter,High Tech,,0,100,0,0,,0,0,0,0,0,0,0,0,0,NONE,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,hightech_bp,,0,0,3,618
+Xyphos S,xyphos_ship,Solo Fighter,HIgh Tech,,0,450,0,0,,0,0,0,0,0,0,0,0,0,NONE,,0,0,0,,,0,0,0,1,0.05,,13,0,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,619

@@ -2,7 +2,7 @@
 	"quality":1,
 	"displayName":"Bomber",
 	"hullId":"cobra_ship",
-	"variantId":"cobra_ship_bomber",
+	"variantId":"cobra_ship_standard",
 	"fluxVents":0,
 	"fluxCapacitors":0,
 	"mods":[], # array of strings

@@ -2,7 +2,7 @@
 	"quality":0.5,
 	"displayName":"Heavy Fighter",
 	"hullId":"broadsword_ship",
-	"variantId":"broadsword_ship_fighter",
+	"variantId":"broadsword_ship_standard",
 	"fluxVents":2,
 	"fluxCapacitors":2,
 	"hullMods":[], # array of strings

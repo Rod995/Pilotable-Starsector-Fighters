@@ -2,7 +2,7 @@
 	"quality":0.5,
 	"displayName":"Torpedo Bomber",
 	"hullId":"dagger_ship",
-	"variantId":"dagger_ship_bomber",
+	"variantId":"dagger_ship_standard",
 	"fluxVents":0,
 	"fluxCapacitors":0,
 	"hullMods":["no_weapon_flux"], # array of strings

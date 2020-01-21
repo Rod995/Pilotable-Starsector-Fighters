@@ -2,7 +2,7 @@
 	"quality":0.0,
 	"displayName":"Fighter",
 	"hullId":"claw_ship",
-	"variantId":"claw_ship_fighter",
+	"variantId":"claw_ship_standard",
 	"fluxVents":0,
 	"fluxCapacitors":0,
 	"hullMods":["no_weapon_flux"], # array of strings
