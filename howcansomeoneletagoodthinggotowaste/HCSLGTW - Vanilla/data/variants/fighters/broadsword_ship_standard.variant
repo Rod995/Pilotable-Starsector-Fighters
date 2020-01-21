@@ -3,8 +3,8 @@
 	"displayName":"Heavy Fighter",
 	"hullId":"broadsword_ship",
 	"variantId":"broadsword_ship_fighter",
-	"fluxVents":0,
-	"fluxCapacitors":0,
+	"fluxVents":2,
+	"fluxCapacitors":2,
 	"hullMods":[], # array of strings
 	
 	# mode is either LINKED or ALTERNATING

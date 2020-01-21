@@ -126,6 +126,9 @@
 		"wolf_hegemony_CS":3,
 		"wolf_hegemony_PD":3,
 		
+		"broadsword_ship_standard": 5,
+		"claw_ship_standard": 5,
+
 		"fallback":{"combatMedium":0.5},
 	},
 	"combatMedium":{
