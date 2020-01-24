@@ -36,7 +36,7 @@ Tyrador Safeguard Coalition | 0% | NaN | NaN
 
  [A] - Blizzaia + adds a missile autoloader, and *technically* fixes [II]. Problem is that it murders everything.
  
- [B] - The Foil Bit, the tiniest thingie, is somehow one of the ***strongest*** single ship fighters in the mod currently. Can even solo some small frigates, as long as there's no beams in play. No fighter can stand against beams.
+ [B] - The Foil Bit, the tiniest thingie, is somehow one of the ***strongest*** single ship fighters in that part of the mod currently. Can even solo some small frigates, as long as there's no beams in play. No fighter can stand against beams.
 
 
 ### Fixed Bugs:
@@ -47,4 +47,9 @@ Tyrador Safeguard Coalition | 0% | NaN | NaN
 ## How to install custom Jars?
 
 * Diable Avionics - Dump the jar in the root folder of the Diable mod folder. Replace the `mod_info.json` with the one in the folder as well. Make sure to backup, just in case. ~~or just reinstall the mod~~ 
+
+## Balance?
+
+* OP is determined by multiplying the `wing_data.csv` value `op cost` by 3?
+Probably gonna make a proper formula later.
  
