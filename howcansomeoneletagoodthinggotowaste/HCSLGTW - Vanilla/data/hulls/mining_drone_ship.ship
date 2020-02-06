@@ -41,7 +41,7 @@
     "height": 27,
     "hullId": "mining_drone_ship",
     "hullName": "Mining Drone-S",
-    "hullSize": "FIGHTER",
+    "hullSize": "FRIGATE",
     "shieldCenter": [
         0,
         0
