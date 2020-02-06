@@ -2,7 +2,7 @@
 	"quality":0.5,
 	"displayName":"Rocket Bomber",
 	"hullId":"hoplon_ship",
-	"variantId":"hoplon_ship_escort",
+	"variantId":"hoplon_ship_standard",
 	"fluxVents":0,
 	"fluxCapacitors":0,
 	"mods":[],

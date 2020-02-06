@@ -2,7 +2,7 @@
 	"quality":0.5,
 	"displayName":"Kinetic Bomber",
 	"hullId":"longbow_ship",
-	"variantId":"longbow_ship_support",
+	"variantId":"longbow_ship_standard",
 	"fluxVents":0,
 	"fluxCapacitors":0,
 	"hullMods":["no_weapon_flux"], # array of strings

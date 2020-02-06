@@ -2,7 +2,7 @@
 	"quality":0.5,
 	"displayName":"Bomber",
 	"hullId":"piranha_ship",
-	"variantId":"piranha_ship_bomber",
+	"variantId":"piranha_ship_standard",
 	"fluxVents":0,
 	"fluxCapacitors":0,
 	"mods":[], # array of strings

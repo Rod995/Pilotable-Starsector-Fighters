@@ -2,7 +2,7 @@
 	"quality":1,
 	"displayName":"Interceptor Drone",
 	"hullId":"wasp_ship",
-	"variantId":"wasp_ship_interceptor",
+	"variantId":"wasp_ship_standard",
 	"fluxVents":0,
 	"fluxCapacitors":0,
 	"hullMods":["no_weapon_flux"], # array of strings

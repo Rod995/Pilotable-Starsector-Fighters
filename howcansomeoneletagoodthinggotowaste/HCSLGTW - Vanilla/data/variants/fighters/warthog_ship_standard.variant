@@ -2,7 +2,7 @@
 	"quality":0.5,
 	"displayName":"Assault Fighter",
 	"hullId":"warthog_ship",
-	"variantId":"warthog_ship_fighter",
+	"variantId":"warthog_ship_standard",
 	"fluxVents":0,
 	"fluxCapacitors":0,
 	"hullMods":[], # array of strings
