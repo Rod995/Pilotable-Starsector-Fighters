@@ -11,6 +11,7 @@
 | Vanilla! | 5% | [III], [IV]? | NaN |
 
 ## Planned to be Supported:
+
 | Mod Name | Completion Level | Confusion | Planned Implementation |
 | -------- | ---------------- | --------- | ---------------------- |
 | Artefact | 0% | NaN | NaN |
