@@ -6,9 +6,9 @@
 
 | Mod Name | Completion Level | Bugs? | Deviations |
 | -------- | ---------------- | ----- | ---------- |
-| Diable Avionics | 90% | [II], [III] | [A] |
-| Dassault-Mikoyan | 40% | [III] | [B] |
-| Vanilla! | 5% | [III], [IV]? | NaN |
+| Diable Avionics | 90% | [II], [III], [IV], [V] | [A] |
+| Dassault-Mikoyan | 40% | [III], [IV], [V] | [B] |
+| Vanilla! | 5% | [III], [IV]?, [V]? | NaN |
 
 ## Planned to be Supported:
 
@@ -31,7 +31,9 @@
  
  [III] - All fighters cost over 50-60 supplies just to fix, starting from 0% CR.
 
- [IV] - Can't ever build the ships, as they will consume all your capacity instead. Dunno if fixed by commit f958bac.
+ [IV] - Can't ever build the ships, as they will consume all your capacity instead. ~~Dunno if fixed by commit f958bac.~~
+
+ [V] - The weapons on the modded fighters can't be properly bought or viewed.
  
 
 ### Deviations:
@@ -43,7 +45,7 @@
 
 ### Fixed Bugs:
 
- [I] - `Zephyr will crash with a null error due to missing weapons, either side. Will attempt to remedy this by separating its arms from its weapons.` 99% fixed as of commit 80a92a1. 
+ [I] - `Zephyr will crash with a null error due to missing weapons, either side. Will attempt to remedy this by separating its arms from its weapons.` 100% fixed as of commit 80a92a1. 
 
 
 ## How to install custom Jars?
@@ -53,5 +55,5 @@
 ## Balance?
 
 * OP is determined by multiplying the `wing_data.csv` value `op cost` by 3?
-Probably gonna make a proper formula later.
+Probably gonna make a proper formula later. Maybe it'll involve the size and mass of the thing? How do they do it in regular mods?
  
