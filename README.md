@@ -4,23 +4,24 @@
 
 ## Currently Supported:
 
-Mod Name | Completion Level | Bugs? | Deviations 
--------- | ---------------- | ----- | ----------
-Diable Avionics | 90% | [II], [III] | [A]
-Dassault-Mikoyan | 40% | [III] | [B]
+| Mod Name | Completion Level | Bugs? | Deviations |
+| -------- | ---------------- | ----- | ---------- |
+| Diable Avionics | 90% | [II], [III] | [A] |
+| Dassault-Mikoyan | 40% | [III] | [B] |
+| Vanilla! | 5% | [III], [IV]? | NaN |
 
 ## Planned to be Supported:
-Mod Name | Completion Level | Confusion | Planned Implementation
--------- | ---------------- | --------- | ----------------------
-Artefact | 0% | NaN | NaN
-Disassemble Reassemble | 0% | NaN | NaN
-Foundation of Borken | 0% | NaN | NaN
-NGO | 0% | NaN | NaN
-ORA | 0% | NaN | NaN
-SAD | 0% | NaN | NaN
-Shadowyards | 0% | NaN | NaN
-Ship and Weapon Pack | 0% | NaN | NaN
-Tyrador Safeguard Coalition | 0% | NaN | NaN
+| Mod Name | Completion Level | Confusion | Planned Implementation |
+| -------- | ---------------- | --------- | ---------------------- |
+| Artefact | 0% | NaN | NaN |
+| Disassemble Reassemble | 0% | NaN | NaN |
+| Foundation of Borken | 0% | NaN | NaN |
+| NGO | 0% | NaN | NaN |
+| ORA | 0% | NaN | NaN |
+| SAD | 0% | NaN | NaN |
+| Shadowyards | 0% | NaN | NaN |
+| Ship and Weapon Pack | 0% | NaN | NaN |
+| Tyrador Safeguard Coalition | 0% | NaN | NaN |
 
 
 ### Current Bugs:
