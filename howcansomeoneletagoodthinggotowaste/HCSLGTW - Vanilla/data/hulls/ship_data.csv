@@ -1,21 +1,21 @@
 name,id,designation,tech/manufacturer,system id,fleet pts,hitpoints,armor rating,max flux,8/6/5/4%,flux dissipation,ordnance points,fighter bays,max speed,acceleration,deceleration,max turn rate,turn acceleration,mass,shield type,defense id,shield arc,shield upkeep,shield efficiency,phase cost,phase upkeep,min crew,max crew,cargo,fuel,fuel/ly,range,max burn,base value,cr %/day,CR to deploy,peak CR sec,CR loss/sec,supplies/rec,supplies/mo,hints,tags,rarity,breakProb,minPieces,maxPieces,number
-Broadsword S,broadsword_ship,Solo Fighter,Low Tech,flarelauncher_fighter,2,750,100,80,,10,18,0,200,400,350,90,180,30,NONE,,0,0,0,,,1,1,0,1,0.05,,13,2000,,15,180,0.25,0.2,1,,lowtech_bp,,0,0,3,600
-Claw S,claw_ship,Solo Fighter,High Tech,,1,300,25,150,,50,14,0,275,350,200,30,120,40,OMNI,,160,0,1,,,1,1,0,1,0.05,,13,1800,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,601
-Cobra S,cobra_ship,Solo Fighter,High Tech,,6,400,25,400,,50,75,0,160,200,200,30,120,40,OMNI,,120,0,1,,,4,4,0,1,0.05,,13,10000,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,602
-Dagger S,dagger_ship,Solo Fighter,High Tech,,2,300,10,200,,50,0,0,175,350,250,90,180,10,OMNI,,160,0,1,,,1,1,0,1,0.05,,13,3000,,15,180,0.25,0.2,1,,hightech_bp,,0,0,3,603
-Borer S,drone_borer_ship,Solo Fighter,,,1,200,25,200,,100,0,0,100,200,200,180,360,5,NONE,,0,0,0,,,1,1,0,1,0.05,,13,250,,15,180,0.25,0.2,1,,,,0,0,3,604
-Terminator S,drone_terminator_ship,Solo Fighter,,,3,500,100,200,,50,0,0,300,400,400,200,400,5,NONE,,360,0,1,,,1,1,0,1,0.05,,13,3000,,15,180,0.25,0.2,1,,,,0,0,3,605
-Gladius S,gladius_ship,Solo Fighter,Midline,flarelauncher_single,3,500,75,200,,50,0,0,300,400,300,150,300,40,NONE,,0,0,0,,,1,1,0,1,0.05,,13,5000,,15,180,0.25,0.2,1,,midline_bp,,0,0,3,606
-Khopesh S,hoplon_ship,Solo Fighter,Low Tech,,2,500,75,500,,100,0,0,180,225,200,60,120,40,NONE,,0,0,0,,,1,1,0,1,0.05,,13,3500,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,607
-Longbow S,longbow_ship,Solo Fighter,High Tech,,3,300,10,100,,50,0,0,200,400,300,90,180,20,OMNI,,160,0,1,,,1,1,0,1,0.05,,13,4500,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,608
-Lux S,lux_ship,Solo Fighter,Remnant,flarelauncher_fighter,2,400,60,350,,50,0,0,220,350,350,100,240,30,OMNI,,160,0,1,,,1,1,0,1,0.05,,13,1500,,15,180,0.25,0.2,1,,,,0,0,3,609
-Mining Pod S,mining_drone_ship,Solo Fighter,Low Tech,,1,600,150,150,,100,0,0,125,75,75,45,90,50,NONE,,0,0,0,,,1,1,0,1,0.05,,13,375,,15,180,0.25,0.2,1,,base_bp,,0,0,3,610
-Perdition S,perdition_ship,Solo Fighter,Low Tech,,2,400,50,50,,10,0,0,140,150,150,30,90,15,NONE,,0,0,0,,,1,1,0,1,0.05,,13,2000,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,611
-Piranha S,piranha_ship,Solo Fighter,Low Tech,,1,500,75,200,,100,0,0,150,200,200,40,120,30,NONE,,0,0,0,,,1,1,0,1,0.05,,13,2000,,15,180,0.25,0.2,1,,lowtech_bp,,0,0,3,612
-Spark S,spark_ship,Solo Fighter,Remnant,,1,300,20,150,,50,0,0,335,500,400,90,270,15,OMNI,,160,0,1,,,1,1,0,1,0.05,,13,1000,,15,180,0.25,0.2,1,,,,0,0,3,613
-Talon S,talon_ship,Solo Fighter,Low Tech,,1,200,25,400,,100,0,0,325,400,300,150,300,10,NONE,,0,0,0,,,1,1,0,1,0.05,,13,500,,15,180,0.25,0.2,1,,base_bp,,0,0,3,614
-Thunder S,thunder_ship,Solo Fighter,Midline,,3,500,75,750,,100,0,0,450,600,500,150,300,30,NONE,,0,0,0,,,1,1,0,1,0.05,,13,3500,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,615
-Trident S,trident_ship,Solo Fighter,High Tech,,4,500,25,500,,50,0,0,130,150,125,30,90,50,OMNI,,180,0,1,,,1,1,0,1,0.05,,13,7000,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,616
-Warthog S,warthog_ship,Solo Fighter,Midline,flarelauncher_fighter,4,750,200,200,,50,0,0,130,180,150,100,200,40,NONE,,0,0,0,,,1,1,0,1,0.05,,13,4500,,15,180,0.25,0.2,1,,midline_bp,,0,0,3,617
-Wasp S,wasp_ship,Solo Fighter,High Tech,,1,100,10,500,,100,0,0,325,500,450,180,360,10,NONE,,0,0,0,,,1,1,0,1,0.05,,13,1000,,15,180,0.25,0.2,1,,hightech_bp,,0,0,3,618
-Xyphos S,xyphos_ship,Solo Fighter,HIgh Tech,,4,450,50,600,,50,0,0,160,300,250,90,180,30,OMNI,,160,0,1,,,1,1,0,1,0.05,,13,5000,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,619
+Broadsword S,broadsword_ship,Solo Fighter,Low Tech,flarelauncher_fighter,2,750,100,80,,10,16,0,200,400,350,90,180,30,NONE,,0,0,0,,,1,1,0,1,0.05,,13,2000,,15,180,0.25,0.2,1,,lowtech_bp,,0,0,3,600
+Claw S,claw_ship,Solo Fighter,High Tech,,1,300,25,150,,50,22,0,275,350,200,30,120,40,OMNI,,160,0,1,,,1,1,0,1,0.05,,13,1800,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,601
+Cobra S,cobra_ship,Solo Fighter,High Tech,,6,400,25,400,,50,40,0,160,200,200,30,120,40,OMNI,,120,0,1,,,4,4,0,1,0.05,,13,10000,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,602
+Dagger S,dagger_ship,Solo Fighter,High Tech,,2,300,10,200,,50,49,0,175,350,250,90,180,10,OMNI,,160,0,1,,,1,1,0,1,0.05,,13,3000,,15,180,0.25,0.2,1,,hightech_bp,,0,0,3,603
+Borer S,drone_borer_ship,Solo Fighter,,,1,200,25,200,,100,11,0,100,200,200,180,360,5,NONE,,0,0,0,,,1,1,0,1,0.05,,13,250,,15,180,0.25,0.2,1,,,,0,0,3,604
+Terminator S,drone_terminator_ship,Solo Fighter,,,3,500,100,200,,50,18,0,300,400,400,200,400,5,NONE,,360,0,1,,,1,1,0,1,0.05,,13,3000,,15,180,0.25,0.2,1,,,,0,0,3,605
+Gladius S,gladius_ship,Solo Fighter,Midline,flarelauncher_single,3,500,75,200,,50,18,0,300,400,300,150,300,40,NONE,,0,0,0,,,1,1,0,1,0.05,,13,5000,,15,180,0.25,0.2,1,,midline_bp,,0,0,3,606
+Khopesh S,hoplon_ship,Solo Fighter,Low Tech,,2,500,75,500,,100,36,0,180,225,200,60,120,40,NONE,,0,0,0,,,1,1,0,1,0.05,,13,3500,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,607
+Longbow S,longbow_ship,Solo Fighter,High Tech,,3,300,10,100,,50,36,0,200,400,300,90,180,20,OMNI,,160,0,1,,,1,1,0,1,0.05,,13,4500,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,608
+Lux S,lux_ship,Solo Fighter,Remnant,flarelauncher_fighter,2,400,60,350,,50,30,0,220,350,350,100,240,30,OMNI,,160,0,1,,,1,1,0,1,0.05,,13,1500,,15,180,0.25,0.2,1,,,,0,0,3,609
+Mining Pod S,mining_drone_ship,Solo Fighter,Low Tech,,1,600,150,150,,100,5,0,125,75,75,45,90,50,NONE,,0,0,0,,,1,1,0,1,0.05,,13,375,,15,180,0.25,0.2,1,,base_bp,,0,0,3,610
+Perdition S,perdition_ship,Solo Fighter,Low Tech,,2,400,50,50,,10,30,0,140,150,150,30,90,15,NONE,,0,0,0,,,1,1,0,1,0.05,,13,2000,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,611
+Piranha S,piranha_ship,Solo Fighter,Low Tech,,1,500,75,200,,100,30,0,150,200,200,40,120,30,NONE,,0,0,0,,,1,1,0,1,0.05,,13,2000,,15,180,0.25,0.2,1,,lowtech_bp,,0,0,3,612
+Spark S,spark_ship,Solo Fighter,Remnant,,1,300,20,150,,50,24,0,335,500,400,90,270,15,OMNI,,160,0,1,,,1,1,0,1,0.05,,13,1000,,15,180,0.25,0.2,1,,,,0,0,3,613
+Talon S,talon_ship,Solo Fighter,Low Tech,,1,200,25,400,,100,6,0,325,400,300,150,300,10,NONE,,0,0,0,,,1,1,0,1,0.05,,13,500,,15,180,0.25,0.2,1,,base_bp,,0,0,3,614
+Thunder S,thunder_ship,Solo Fighter,Midline,,3,500,75,750,,100,24,0,450,600,500,150,300,30,NONE,,0,0,0,,,1,1,0,1,0.05,,13,3500,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,615
+Trident S,trident_ship,Solo Fighter,High Tech,,4,500,25,500,,50,75,0,130,150,125,30,90,50,OMNI,,180,0,1,,,1,1,0,1,0.05,,13,7000,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,616
+Warthog S,warthog_ship,Solo Fighter,Midline,flarelauncher_fighter,4,750,200,200,,50,36,0,130,180,150,100,200,40,NONE,,0,0,0,,,1,1,0,1,0.05,,13,4500,,15,180,0.25,0.2,1,,midline_bp,,0,0,3,617
+Wasp S,wasp_ship,Solo Fighter,High Tech,,1,100,10,500,,100,15,0,325,500,450,180,360,10,NONE,,0,0,0,,,1,1,0,1,0.05,,13,1000,,15,180,0.25,0.2,1,,hightech_bp,,0,0,3,618
+Xyphos S,xyphos_ship,Solo Fighter,HIgh Tech,,4,450,50,600,,50,45,0,160,300,250,90,180,30,OMNI,,160,0,1,,,1,1,0,1,0.05,,13,5000,,15,180,0.25,0.2,1,,rare_bp,,0,0,3,619
