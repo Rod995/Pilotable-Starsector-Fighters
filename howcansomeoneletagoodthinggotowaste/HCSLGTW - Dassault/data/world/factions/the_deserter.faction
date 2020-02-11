@@ -25,7 +25,12 @@
 			"fallback":{"combatMedium":1},
 		},
 		"combatSmall":{
-			"wolf_righthand":10,	
+			"wolf_righthand":10,
+			"istl_tempestdrone_ship": 2,
+			"istl_skink_ship": 3,
+			"istl_firebeetle_ship": 3,
+			"istl_lightbomber_ship": 1,
+			"istl_spooky_ship" 1,	
 			"tempest_Attack":7,
 			"tempest_righthand":3,
 			"hyperion_Strike":1,

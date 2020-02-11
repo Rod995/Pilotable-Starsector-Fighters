@@ -29,6 +29,9 @@
 			"istl_stoat_c_std":10,
 			"istl_stoat_c_blaze":10,
 			"istl_naja_export":4,
+			"istl_hummingbird_ship": 2,
+			"istl_fletcher_ship": 2,
+			"istl_tunderbolt_ship": 1,
 			"fallback":{"escortSmall":1},
 		},
 		"combatMedium":{

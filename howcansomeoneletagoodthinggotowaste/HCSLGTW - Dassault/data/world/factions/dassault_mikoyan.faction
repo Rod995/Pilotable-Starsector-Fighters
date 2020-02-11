@@ -43,6 +43,21 @@
 			"istl_flatmouse":6,
 			"istl_carabao":2,
 			"istl_chamois":1,
+		#pilotable-fighters
+			"istl_zone_ship": 2,
+			"istl_oryol_ship": 2,
+			"istl_funnel_ship": 4,
+			"istl_goalkeeper_ship": 2,
+			"istl_sauterelle_ship": 2,
+			"istl_dard_ship": 2,
+			"istl_flare_ship": 2,
+			"istl_harridan_ship": 2,
+			"istl_damselfly_ship": 2,
+			"istl_egret_ship": 2,
+			"istl_mystere_ship": 2,
+			"istl_rafale_ship": 2,
+			"istl_rafale2_ship": 2,
+			"istl_pup_ship": 1,
 		#shitlist
 			"brawler":0, # kobra is better~
 			"gremlin":0, # no gremlins! fuck gremlins
