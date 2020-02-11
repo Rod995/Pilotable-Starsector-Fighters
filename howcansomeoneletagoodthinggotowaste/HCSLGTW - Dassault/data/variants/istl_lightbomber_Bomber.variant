@@ -1,0 +1,25 @@
+{
+  "displayName": "Heavy Bomber",
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "hullId": "istl_lightbomber_ship",
+  "hullMods": [],
+  "quality": 0,
+  "variantId": "istl_lightbomber_Bomber",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "istl_electronrocket"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0004": "istl_buzzgun"
+      }
+    }
+  ]
+}

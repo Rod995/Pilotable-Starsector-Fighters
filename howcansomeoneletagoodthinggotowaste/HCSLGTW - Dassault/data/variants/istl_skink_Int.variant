@@ -1,0 +1,25 @@
+{
+  "displayName": "Interceptor Drone",
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "hullId": "istl_skink_ship",
+  "hullMods": [],
+  "quality": 0,
+  "variantId": "istl_skink_Int",
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0001": "istl_ammftr"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0002": "istl_multipdnode"
+      }
+    }
+  ]
+}

@@ -66,6 +66,22 @@
 		
 		"istl_ifrit_std":10,
 		"tempest_righthand":5,
+
+
+		"istl_zone_ship":3,
+		"istl_oryol_ship":3,
+		"istl_funnel_ship":3,
+		"istl_goalkeeper_ship":3,
+		"istl_sauterelle_ship":3,
+		"istl_dard_ship":3,
+		"istl_flare_ship":3,
+		"istl_harridan_ship":3,
+		"istl_damselfly_ship":3,
+		"istl_egret_ship":3,
+		"istl_mystere_ship":3,
+		"istl_icax_ship":3,
+		"istl_rafale_ship":3,
+		"istl_rafale2_ship":3,
 			
 		"fallback":{"combatMedium":0.5},
 	},
@@ -232,4 +248,5 @@
 		"fallback":{"phaseSmall":1},
 		"fallback2":{"phaseLarge":0.5},
 	},
+
 }

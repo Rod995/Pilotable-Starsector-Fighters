@@ -1,0 +1,25 @@
+{
+  "displayName": "Assault Fighter",
+  "fluxCapacitors": 0,
+  "fluxVents": 0,
+  "hullId": "istl_firebeetle_ship",
+  "hullMods": [],
+  "quality": 0,
+  "variantId": "istl_firebeetle_Assault",
+  "weaponGroups": [
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "istl_3x4cmrailgun"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0002": "istl_toreador"
+      }
+    }
+  ]
+}
