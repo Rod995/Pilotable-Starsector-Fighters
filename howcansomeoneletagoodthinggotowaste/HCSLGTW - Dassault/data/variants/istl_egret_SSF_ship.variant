@@ -1,24 +1,24 @@
 {
-  "displayName": "Armored Assault Fighter",
+  "displayName": "Space Superiority Fighter",
   "fluxCapacitors": 0,
   "fluxVents": 0,
-  "hullId": "istl_pup_ship",
+  "hullId": "istl_egret_ship",
   "hullMods": [],
-  "variantId": "istl_pup_Armored",
+  "variantId": "istl_egret_SSF_ship",
   "weaponGroups": [
     {
       "autofire": true,
       "mode": "LINKED",
       "weapons": {
-        "WS0001": "istl_barker"
+        "WS0001": "istl_autolaser_ftr"
       }
     },
     {
       "autofire": true,
       "mode": "LINKED",
       "weapons": {
-        "WS0002": "istl_buzzgun",
-        "WS0003": "istl_buzzgun"
+        "WS0002": "istl_multipdnode",
+        "WS0003": "istl_multipdnode"
       }
     }
   ]

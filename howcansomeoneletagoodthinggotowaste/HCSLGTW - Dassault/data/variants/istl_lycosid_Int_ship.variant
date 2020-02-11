@@ -5,7 +5,7 @@
   "hullId": "istl_lycosid_ship",
   "hullMods": [],
   "quality": 0,
-  "variantId": "istl_lycosid_Int",
+  "variantId": "istl_lycosid_Int_ship",
   "weaponGroups": [
     {
       "autofire": true,

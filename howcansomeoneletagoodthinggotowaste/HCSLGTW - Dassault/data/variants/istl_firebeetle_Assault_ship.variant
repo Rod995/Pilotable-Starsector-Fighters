@@ -5,7 +5,7 @@
   "hullId": "istl_firebeetle_ship",
   "hullMods": [],
   "quality": 0,
-  "variantId": "istl_firebeetle_Assault",
+  "variantId": "istl_firebeetle_Assault_ship",
   "weaponGroups": [
     {
       "autofire": true,

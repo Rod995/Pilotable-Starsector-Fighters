@@ -1,17 +1,17 @@
 {
-  "displayName": "Torpedo Bomber",
+  "displayName": "Heavy Bomber",
   "fluxCapacitors": 0,
   "fluxVents": 0,
   "hullId": "istl_rafale_ship",
   "hullMods": [],
   "quality": 0,
-  "variantId": "istl_rafale_Bomber",
+  "variantId": "istl_rafale_Hedgehog_ship",
   "weaponGroups": [
     {
       "autofire": false,
       "mode": "ALTERNATING",
       "weapons": {
-        "WS0001": "istl_mirvtorpedo_single"
+        "WS0001": "istl_hedgehog_bay"
       }
     }
   ]

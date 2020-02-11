@@ -5,7 +5,7 @@
   "hullId": "istl_focuser_ship",
   "hullMods": [],
   "quality": 0,
-  "variantId": "istl_focuser_Bomber",
+  "variantId": "istl_focuser_Bomber_ship",
   "weaponGroups": [
     {
       "autofire": false,

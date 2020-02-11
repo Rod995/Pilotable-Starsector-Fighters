@@ -4,7 +4,7 @@
   "fluxVents": 0,
   "hullId": "istl_flare_ship",
   "hullMods": [],
-  "variantId": "istl_flare_Heavy",
+  "variantId": "istl_flare_Heavy_ship",
   "weaponGroups": [
     {
       "autofire": false,

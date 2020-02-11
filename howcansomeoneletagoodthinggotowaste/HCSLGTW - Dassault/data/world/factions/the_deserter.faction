@@ -26,7 +26,7 @@
 		},
 		"combatSmall":{
 			"wolf_righthand":10,
-			"istl_tempestdrone_ship": 2,
+			"istl_tempestdrone_std": 2,
 			"istl_skink_Int": 3,
 			"istl_firebeetle_Assault": 3,
 			"istl_lightbomber_Bomber": 1,

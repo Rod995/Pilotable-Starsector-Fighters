@@ -1,24 +1,24 @@
 {
-  "displayName": "Phase Fighter",
+  "displayName": "Assault Fighter",
   "fluxCapacitors": 0,
   "fluxVents": 0,
-  "hullId": "istl_hellion_ship",
+  "hullId": "istl_iridium_ship",
   "hullMods": [],
   "quality": 0,
-  "variantId": "istl_hellion_Assault",
+  "variantId": "istl_iridium_Assault_ship",
   "weaponGroups": [
     {
-      "autofire": true,
+      "autofire": false,
       "mode": "LINKED",
       "weapons": {
-        "WS0001": "istl_shellbackftr",
+        "WS0002": "istl_proxbomb"
       }
     },
     {
       "autofire": true,
       "mode": "LINKED",
       "weapons": {
-        "WS0002": "istl_micropd",
+        "WS0001": "istl_plasmadisruptor_ftr"
       }
     }
   ]

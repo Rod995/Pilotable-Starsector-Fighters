@@ -1,31 +1,31 @@
 {
-  "displayName": "Scout Fighter",
+  "displayName": "Standard",
   "fluxCapacitors": 0,
   "fluxVents": 0,
-  "hullId": "istl_harridan_ship",
+  "hullId": "istl_tempestdrone_ship",
   "hullMods": [],
-  "variantId": "istl_harridan_Scout",
+  "quality": 0,
+  "variantId": "istl_tempestdrone_std_ship",
   "weaponGroups": [
     {
       "autofire": false,
       "mode": "LINKED",
       "weapons": {
-        "WS0001": "istl_ammftr",
-        "WS0002": "istl_ammftr"
+        "WS0003": "istl_slapper_ftr"
       }
     },
     {
       "autofire": true,
       "mode": "LINKED",
       "weapons": {
-        "WS0003": "istl_magdisruptor"
+        "WS0002": "istl_toreador"
       }
     },
     {
       "autofire": true,
       "mode": "LINKED",
       "weapons": {
-        "WS0004": "istl_multipdnode"
+        "WS0001": "istl_dronepd"
       }
     }
   ]

@@ -5,7 +5,7 @@
   "hullId": "istl_firespray_ship",
   "hullMods": [],
   "quality": 0,
-  "variantId": "istl_firespray_Plasma",
+  "variantId": "istl_firespray_Plasma_ship",
   "weaponGroups": [
     {
       "autofire": false,

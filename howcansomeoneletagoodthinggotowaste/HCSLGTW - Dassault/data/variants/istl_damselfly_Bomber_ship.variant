@@ -1,18 +1,17 @@
 {
-  "displayName": "Fighter-Bomber",
+  "displayName": "Strike Bomber",
   "fluxCapacitors": 0,
   "fluxVents": 0,
-  "hullId": "istl_mystere_ship",
+  "hullId": "istl_damselfly_ship",
   "hullMods": [],
-  "quality": 0,
-  "variantId": "istl_mystere_Multi",
+  "variantId": "istl_damselfly_Bomber_ship",
   "weaponGroups": [
     {
       "autofire": false,
       "mode": "LINKED",
       "weapons": {
-        "WS0001": "istl_ruptureftr_tube",
-        "WS0002": "istl_ruptureftr_tube"
+        "WS0001": "istl_perforator_ftr",
+        "WS0002": "istl_perforator_ftr"
       }
     },
     {

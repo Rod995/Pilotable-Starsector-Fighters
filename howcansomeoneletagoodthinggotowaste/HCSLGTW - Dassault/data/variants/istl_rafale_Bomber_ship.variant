@@ -1,17 +1,17 @@
 {
-  "displayName": "Bomber",
+  "displayName": "Torpedo Bomber",
   "fluxCapacitors": 0,
   "fluxVents": 0,
-  "hullId": "istl_fletcher_ship",
+  "hullId": "istl_rafale_ship",
   "hullMods": [],
   "quality": 0,
-  "variantId": "istl_fletcher_Bomber",
+  "variantId": "istl_rafale_Bomber_ship",
   "weaponGroups": [
     {
       "autofire": false,
       "mode": "ALTERNATING",
       "weapons": {
-        "WS0001": "istl_energymissile"
+        "WS0001": "istl_mirvtorpedo_single"
       }
     }
   ]

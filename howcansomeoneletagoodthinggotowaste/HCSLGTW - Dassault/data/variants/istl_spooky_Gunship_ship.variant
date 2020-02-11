@@ -5,7 +5,7 @@
   "hullId": "istl_spooky_ship",
   "hullMods": [],
   "quality": 0,
-  "variantId": "istl_spooky_Gunship",
+  "variantId": "istl_spooky_Gunship_ship",
   "weaponGroups": [
     {
       "autofire": false,

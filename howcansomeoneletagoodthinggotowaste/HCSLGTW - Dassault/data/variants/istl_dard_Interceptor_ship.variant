@@ -5,7 +5,7 @@
   "hullId": "istl_dard_ship",
   "hullMods": [],
   "quality": 0,
-  "variantId": "istl_dard_Interceptor",
+  "variantId": "istl_dard_Interceptor_ship",
   "weaponGroups": [
     {
       "autofire": true,

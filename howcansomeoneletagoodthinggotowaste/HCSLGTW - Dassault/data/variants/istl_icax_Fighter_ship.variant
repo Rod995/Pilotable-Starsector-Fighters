@@ -1,24 +1,24 @@
 {
-  "displayName": "Heavy Bomber",
+  "displayName": "Skipfighter",
   "fluxCapacitors": 0,
   "fluxVents": 0,
-  "hullId": "istl_lightbomber_ship",
+  "hullId": "istl_icax_ship",
   "hullMods": [],
   "quality": 0,
-  "variantId": "istl_lightbomber_Bomber",
+  "variantId": "istl_icax_Fighter_ship",
   "weaponGroups": [
     {
-      "autofire": false,
+      "autofire": true,
       "mode": "LINKED",
       "weapons": {
-        "WS0001": "istl_electronrocket"
+        "WS0001": "istl_icaxgun"
       }
     },
     {
       "autofire": true,
       "mode": "LINKED",
       "weapons": {
-        "WS0004": "istl_buzzgun"
+        "WS0003": "istl_multipdnode"
       }
     }
   ]
