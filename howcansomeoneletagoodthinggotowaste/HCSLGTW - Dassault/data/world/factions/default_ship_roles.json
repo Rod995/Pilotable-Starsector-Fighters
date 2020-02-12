@@ -66,6 +66,31 @@
 		
 		"istl_ifrit_std":10,
 		"tempest_righthand":5,
+
+
+		"istl_damselfly_Bomber": 3,
+		"istl_dard_Interceptor": 3,
+		"istl_egret_SSF": 3,
+		"istl_firebeetle_Assault": 3,
+		"istl_firespray_Plasma": 3,
+		"istl_flare_Heavy": 3,
+		"istl_fletcher_Bomber": 3,
+		"istl_focuser_Bomber": 3,
+		"istl_harridan_Scout": 3,
+		"istl_hellion_Assault": 3,
+		"istl_hummingbird_Interceptor": 3,
+		"istl_icax_Fighter": 3,
+		"istl_iridium_Assault": 3,
+		"istl_lightbomber_Bomber": 3,
+		"istl_lycosid_Int": 3,
+		"istl_mystere_Multi": 3,
+		"istl_pup_Armored": 3,
+		"istl_rafale_Bomber": 3,
+		"istl_rafale_Hedgehog": 3,
+		"istl_rafale2_Bomber": 3,
+		"istl_skink_Int": 3,
+		"istl_spooky_Gunship": 3,
+		"istl_thunderbolt_Heavy": 3,
 			
 		"fallback":{"combatMedium":0.5},
 	},
@@ -232,4 +257,5 @@
 		"fallback":{"phaseSmall":1},
 		"fallback2":{"phaseLarge":0.5},
 	},
+
 }
