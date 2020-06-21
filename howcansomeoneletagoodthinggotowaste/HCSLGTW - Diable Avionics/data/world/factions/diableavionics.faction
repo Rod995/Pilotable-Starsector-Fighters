@@ -2,6 +2,7 @@
     "hullFrequency":{
         "tags":{},
         "hulls":{
+            "diableavionics_avalanche_ship": 3,
             "diableavionics_arbitrator_ship": 6,
             "diableavionics_blizzaia_plus_ship": 1,
             "diableavionics_blizzaia_ship": 4,
@@ -16,6 +17,7 @@
     "knownShips":{
         "tags":["diable_bp"],
         "hulls":[
+            "diableavionics_avalanche_ship",
             "diableavionics_arbitrator_ship",
             "diableavionics_blizzaia_plus_ship",
             "diableavionics_blizzaia_ship",

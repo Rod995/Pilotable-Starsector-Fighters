@@ -1,6 +1,6 @@
 {
-  "variantId": "diableavionics_blizzaia_plus_ship_variant",
-  "hullId": "diableavionics_blizzaia",
+  "variantId": "diableavionics_blizzaia_ship_variant",
+  "hullId": "diableavionics_blizzaia_ship",
   "displayName": "7th gen Wanzer",
   "goalVariant": false,
   "fluxCapacitors": 0,

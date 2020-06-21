@@ -1,58 +1,56 @@
 {
   "bounds": [
+    15,
+    7,
+    10,
+    12,
+    12,
+    25.5,
+    -3,
+    25.5,
+    -1,
+    12,
+    -11.5,
     6,
-    -7.5,
-    3,
-    -14.5,
-    -3,
-    -14.5,
-    -3,
-    -5.5,
+    -11.5,
+    -6,
+    -1,
     -12,
-    -7.5,
-    -16.5,
-    -0,
+    -3,
+    -25.5,
+    12,
+    -25.5,
+    10,
     -12,
-    7.5,
-    -3,
-    5.5,
-    -3,
-    14.5,
-    3,
-    14.5,
-    6,
-    7.5,
-    11,
-    5.5,
-    9,
-    -6.5
+    15,
+    -7
   ],
   "builtInWeapons": {
-    "ARM": "diableavionics_blizzaiaarm",
-    "SHOULDER": "diableavionics_warlustshoulder",
-    "WS_HEAD": "diableavionics_warlusthead",
-    "WS_RIGHT": "diableavionics_warlustgun"
+    "LEFT": "diableavionics_warlustmissile",
+    "PAULDRON": "diableavionics_warlustpauldron",
+    "RIGHT": "diableavionics_warlustgun",
+    "WS_HEAD": "diableavionics_warlusthead"
   },
   "center": [
-    16,
-    18.5
+    21,
+    17
   ],
-  "collisionRadius": 21,
+  "collisionRadius": 33.5,
   "engineSlots": [
     {
       "angle": -180,
-      "contrailSize": 12,
-      "length": 20.5,
+      "contrailSize": 13,
+      "length": 7.5,
       "location": [
-        -16.5,
+        -16,
         -0
       ],
       "style": "CUSTOM",
       "styleId": "DiableAvionicsTrail",
-      "width": 12
+      "width": 13
     }
   ],
-  "height": 31,
+  "height": 35,
   "hullId": "diableavionics_warlust_ship",
   "hullName": "Warlust-S",
   "hullSize": "FRIGATE",
@@ -60,30 +58,31 @@
     0,
     -0
   ],
-  "shieldRadius": 20.5,
-  "spriteName": "graphics/da/ships/warlust/diableavionics_warlust.png",
+  "shieldRadius": 33.5,
+  "spriteName": "graphics/da/ships/warlust/diableavionics_warlust_body.png",
   "style": "DA_WANZER",
   "viewOffset": 0,
   "weaponSlots": [
     {
       "angle": 15,
       "arc": 90,
-      "id": "ARM",
+      "id": "PAULDRON",
       "locations": [
-        -1,
-        11.5
+        4,
+        17
       ],
       "mount": "TURRET",
       "size": "SMALL",
-      "type": "DECORATIVE"
+      "type": "DECORATIVE",
+      "renderOrderMod":+30,
     },
     {
       "angle": 0,
       "arc": 135,
       "id": "WS_HEAD",
       "locations": [
-        0,
-        0
+        4,
+        -0
       ],
       "mount": "TURRET",
       "size": "SMALL",
@@ -92,27 +91,39 @@
     {
       "angle": 15,
       "arc": 90,
-      "id": "SHOULDER",
+      "id": "LEFT",
       "locations": [
-        2,
-        11.5
+        4,
+        17
       ],
       "mount": "TURRET",
       "size": "SMALL",
       "type": "BUILT_IN"
     },
     {
-      "angle": 0,
-      "arc": 60,
-      "id": "WS_RIGHT",
+      "angle": -15,
+      "arc": 90,
+      "id": "RIGHT",
       "locations": [
-        2,
-        -11.5
+        4,
+        -17
       ],
       "mount": "TURRET",
       "size": "SMALL",
       "type": "BUILT_IN"
+    },
+    {
+      "angle": 45,
+      "arc": 0,
+      "id": "DRONE",
+      "locations": [
+        1.5,
+        17.5
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "SYSTEM"
     }
   ],
-  "width": 32
+  "width": 42
 }

@@ -20,7 +20,7 @@
       "autofire": true,
       "mode": "LINKED",
       "weapons": {
-        "WS0002": "diableavionics_ravenleft2"
+        "WS0002": "diableavionics_ravenleft"
       }
     },
     {

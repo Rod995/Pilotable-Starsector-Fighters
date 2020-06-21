@@ -27,7 +27,7 @@
   ],
   "builtInWeapons": {
     "WS0001": "diableavionics_ravenhead",
-    "WS0002": "diableavionics_ravenleft2",
+    "WS0002": "diableavionics_ravenleft",
     "WS0003": "diableavionics_ravenright"
   },
   "builtInWings": [],
