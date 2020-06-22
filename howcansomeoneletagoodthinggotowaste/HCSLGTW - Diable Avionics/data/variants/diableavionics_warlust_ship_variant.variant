@@ -1,28 +1,40 @@
 {
+  "variantId": "diableavionics_warlust_ship_variant",
+  "hullId": "diableavionics_warlust_ship",
   "displayName": "New Variant",
+  "goalVariant": true,
   "fluxCapacitors": 0,
   "fluxVents": 2,
-  "goalVariant": true,
-  "hullId": "diableavionics_warlust_ship",
+  "quality": 0,
+  "permaMods": [],
   "hullMods": [
     "frontshield",
     "stabilizedshieldemitter",
     "turretgyros"
   ],
-  "modules": [],
-  "permaMods": [],
-  "quality": 0,
-  "variantId": "diableavionics_warlust_ship_variant",
   "weaponGroups": [
     {
       "autofire": false,
       "mode": "LINKED",
       "weapons": {
-        "SHOULDER": "diableavionics_versant_head",
-        "WS_HEAD": "diableavionics_warlusthead",
-        "WS_RIGHT": "diableavionics_warlustgun"
+        "RIGHT": "diableavionics_warlustgun"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS_HEAD": "diableavionics_warlusthead"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "LEFT": "diableavionics_warlustmissile"
       }
     }
   ],
+  "modules": [],
   "wings": []
 }

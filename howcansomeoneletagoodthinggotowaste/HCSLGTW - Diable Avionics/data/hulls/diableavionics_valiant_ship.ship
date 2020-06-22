@@ -16,8 +16,6 @@
   "builtInWeapons": {
     "HEAD": "diableavionics_valianthead",
     "ITANOCIRCUS": "diableavionics_itanolauncher",
-    "LEFTGUN": "diableavionics_valiantleft",
-    "RIGHTGUN": "diableavionics_valiantright",
     "TRANSFORM_00": "diableavionics_valiant_shoulder_LEFT",
     "TRANSFORM_01": "diableavionics_valiant_shoulder_RIGHT",
     "TRANSFORM_02": "diableavionics_valiant_barrel_LEFT",
@@ -150,7 +148,7 @@
       ],
       "mount": "TURRET",
       "size": "SMALL",
-      "type": "BUILT_IN"
+      "type": "HYBRID"
     },
     {
       "angle": -15,
@@ -162,7 +160,7 @@
       ],
       "mount": "TURRET",
       "size": "SMALL",
-      "type": "BUILT_IN"
+      "type": "HYBRID"
     },
     {
       "angle": 0,

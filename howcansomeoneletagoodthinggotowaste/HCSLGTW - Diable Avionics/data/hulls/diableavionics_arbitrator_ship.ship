@@ -11,10 +11,9 @@
     26,
     -0
   ],
-  "builtInMods": [
-    "reduced_explosion"
-  ],
   "builtInWeapons": {
+    "WS0000": "diableavionics_arbitratorartassault",
+    "WS0001": "diableavionics_warlusthead",
     "WS0002": "diableavionics_arbitratorBooster"
   },
   "center": [
@@ -37,35 +36,24 @@
     {
       "angle": 180,
       "contrailSize": 128,
-      "length": 55,
+      "length": 30,
       "location": [
-        -27.5,
-        -0
-      ],
-      "style": "DiableAvionicsTrail",
-      "width": 18
-    },
-    {
-      "angle": 168.5,
-      "contrailSize": 6.723432,
-      "length": 6.704391,
-      "location": [
-        -12,
-        5.5
-      ],
-      "style": "DiableAvionicsTrail",
-      "width": 6.723432
-    },
-    {
-      "angle": -168.5,
-      "contrailSize": 6.723432,
-      "length": 6.704391,
-      "location": [
-        -12,
+        -32,
         -5.5
       ],
       "style": "DiableAvionicsTrail",
-      "width": 6.723432
+      "width": 12
+    },
+    {
+      "angle": -180,
+      "contrailSize": 128,
+      "length": 30,
+      "location": [
+        -32,
+        5.5
+      ],
+      "style": "DiableAvionicsTrail",
+      "width": 12
     }
   ],
   "height": 44,
@@ -83,6 +71,30 @@
   "weaponSlots": [
     {
       "angle": 0,
+      "arc": 10,
+      "id": "WS0000",
+      "locations": [
+        2.5,
+        -3
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "BUILT_IN"
+    },
+    {
+      "angle": 0,
+      "arc": 5,
+      "id": "WS0001",
+      "locations": [
+        10,
+        5.5
+      ],
+      "mount": "HIDDEN",
+      "size": "SMALL",
+      "type": "BUILT_IN"
+    },
+    {
+      "angle": 0,
       "arc": 0,
       "id": "WS0002",
       "locations": [
@@ -92,30 +104,6 @@
       "mount": "HIDDEN",
       "size": "SMALL",
       "type": "BUILT_IN"
-    },
-    {
-      "angle": 0,
-      "arc": 3,
-      "id": "WS0001",
-      "locations": [
-        9.5,
-        5.5
-      ],
-      "mount": "HARDPOINT",
-      "size": "SMALL",
-      "type": "HYBRID"
-    },
-    {
-      "angle": 0,
-      "arc": 3,
-      "id": "WS0003",
-      "locations": [
-        12,
-        -4
-      ],
-      "mount": "HARDPOINT",
-      "size": "SMALL",
-      "type": "HYBRID"
     }
   ],
   "width": 28

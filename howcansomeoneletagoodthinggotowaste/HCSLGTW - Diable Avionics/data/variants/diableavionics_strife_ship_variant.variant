@@ -1,24 +1,36 @@
 {
+  "variantId": "diableavionics_strife_ship_variant",
+  "hullId": "diableavionics_strife_ship",
   "displayName": "New Variant",
+  "goalVariant": true,
   "fluxCapacitors": 7,
   "fluxVents": 1,
-  "goalVariant": true,
-  "hullId": "diableavionics_strife_ship",
-  "hullMods": [],
-  "modules": [],
-  "permaMods": [],
   "quality": 0,
-  "variantId": "diableavionics_strife_ship_variant",
+  "permaMods": [],
+  "hullMods": [],
   "weaponGroups": [
     {
       "autofire": false,
       "mode": "LINKED",
       "weapons": {
-        "A_GUN": "diableavionics_burchel",
-        "B_TORSO": "diableavionics_strifeTorso",
+        "A_GUN": "diableavionics_burchel"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
         "E_HEAD": "diableavionics_strifehead"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "B_TORSO": "diableavionics_strifeTorso"
       }
     }
   ],
+  "modules": [],
   "wings": []
 }

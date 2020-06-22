@@ -56,9 +56,9 @@
     }
   ],
   "height": 42,
-  "hullId": "diableavionics_arbitratorZ",
-  "hullName": "Arbitrator Z",
-  "hullSize": "FIGHTER",
+  "hullId": "diableavionics_arbitratorZ_ship",
+  "hullName": "Arbitrator ZS",
+  "hullSize": "FRIGATE",
   "shieldCenter": [
     4,
     -0

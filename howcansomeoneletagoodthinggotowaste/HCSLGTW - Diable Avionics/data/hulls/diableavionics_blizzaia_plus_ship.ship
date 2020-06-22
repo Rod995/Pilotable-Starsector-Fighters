@@ -1,92 +1,112 @@
 {
   "bounds": [
-    14,
+    10.5,
+    11,
+    5.5,
+    12,
+    -0.5,
+    18,
+    -5.5,
+    13,
+    -14.5,
+    11,
+    -9.5,
     -0,
-    3.5,
-    -15,
-    -4,
-    -15,
-    -10,
-    -4.5,
-    -14,
-    -4.5,
-    -14,
-    4.5,
-    -10,
-    4.5,
-    -4,
-    15,
-    3.5,
-    15
+    -14.5,
+    -11,
+    -5.5,
+    -13,
+    -0.5,
+    -18,
+    5.5,
+    -12,
+    10.5,
+    -11,
+    14.5,
+    -0
   ],
   "builtInWeapons": {
-    "ARM": "diableavionics_blizzaiaarm",
-    "GUN": "diableavionics_blizzaiaright",
-    "HEAD": "diableavionics_blizzaiahead",
-    "SHOULDER": "diableavionics_blizzaialeft"
+    "HEAD": "diableavionics_blizzaiaHead",
+    "LEFT": "diableavionics_blizzaiaCicada",
+    "RIGHT": "diableavionics_blizzaiaGraveac",
+    "SHOULDER_L": "diableavionics_blizzaiaShoulderL",
+    "SHOULDER_R": "diableavionics_blizzaiaShoulderR"
   },
   "center": [
-    17,
+    20,
     19.5
   ],
-  "collisionRadius": 23.5,
+  "collisionRadius": 34.5,
   "engineSlots": [
     {
       "angle": 180,
-      "contrailSize": 8,
-      "length": 16.5,
+      "contrailSize": 10,
+      "length": 22.5,
       "location": [
-        -11.5,
+        -13.5,
         9
       ],
       "style": "CUSTOM",
       "styleId": "DiableAvionicsTrail",
-      "width": 8
+      "width": 10
     },
     {
       "angle": -180,
-      "contrailSize": 8,
-      "length": 16.5,
+      "contrailSize": 10,
+      "length": 22.5,
       "location": [
-        -11.5,
+        -13.5,
         -9
       ],
       "style": "CUSTOM",
       "styleId": "DiableAvionicsTrail",
-      "width": 8
+      "width": 10
     }
   ],
   "height": 36,
   "hullId": "diableavionics_blizzaia_plus_ship",
-  "hullName": "Blizzaia +",
+  "hullName": "Blizzaia+",
   "hullSize": "FRIGATE",
   "shieldCenter": [
     0,
     -0
   ],
-  "shieldRadius": 23,
-  "spriteName": "graphics/da/ships/blizzaia/diableavionics_blizzaia.png",
+  "shieldRadius": 33.5,
+  "spriteName": "graphics/da/ships/blizzaia/diableavionics_blizzaia_body.png",
   "style": "DA_WANZER",
   "viewOffset": 0,
   "weaponSlots": [
     {
-      "angle": 20,
-      "arc": 90,
-      "id": "ARM",
+      "angle": 10,
+      "arc": 70,
+      "id": "LEFT",
       "locations": [
-        0,
-        13.5
+        2,
+        12
       ],
       "mount": "TURRET",
       "size": "SMALL",
-      "type": "DECORATIVE"
+      "type": "BUILT_IN"
+    },
+    {
+      "angle": 10,
+      "arc": 70,
+      "id": "SHOULDER_L",
+      "locations": [
+        2,
+        9
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "DECORATIVE",
+      "renderOrderMod":+100,
     },
     {
       "angle": 0,
       "arc": 135,
       "id": "HEAD",
       "locations": [
-        -0.5,
+        0,
         -0
       ],
       "mount": "TURRET",
@@ -94,29 +114,54 @@
       "type": "BUILT_IN"
     },
     {
-      "angle": 20,
-      "arc": 90,
-      "id": "SHOULDER",
+      "angle": -10,
+      "arc": 70,
+      "id": "RIGHT",
       "locations": [
         2,
-        13.5
+        -12
       ],
       "mount": "TURRET",
       "size": "SMALL",
       "type": "BUILT_IN"
     },
     {
-      "angle": -20,
-      "arc": 90,
-      "id": "GUN",
+      "angle": -10,
+      "arc": 70,
+      "id": "SHOULDER_R",
       "locations": [
         2,
-        -13.5
+        -9
+      ],
+      "mount": "TURRET",
+      "size": "MEDIUM",
+      "type": "DECORATIVE",
+      "renderOrderMod":+100,
+    },
+    {
+      "angle": 0,
+      "arc": 0,
+      "id": "WS0001",
+      "locations": [
+        14.5,
+        -0
       ],
       "mount": "TURRET",
       "size": "SMALL",
-      "type": "BUILT_IN"
+      "type": "SYSTEM"
+    },
+    {
+      "angle": 180,
+      "arc": 0,
+      "id": "WS0002",
+      "locations": [
+        -12.5,
+        -0
+      ],
+      "mount": "TURRET",
+      "size": "SMALL",
+      "type": "SYSTEM"
     }
   ],
-  "width": 34
+  "width": 41
 }

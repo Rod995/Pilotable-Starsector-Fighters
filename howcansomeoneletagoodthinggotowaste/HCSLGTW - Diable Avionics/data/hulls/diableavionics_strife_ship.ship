@@ -80,7 +80,7 @@
   ],
   "height": 26,
   "hullId": "diableavionics_strife_ship",
-  "hullName": "Strife",
+  "hullName": "Strife-S",
   "hullSize": "FRIGATE",
   "shieldCenter": [
     0,
@@ -172,8 +172,9 @@
         -0
       ],
       "mount": "TURRET",
-      "size": "SMALL",
-      "type": "BUILT_IN"
+      "size": "MEDIUM",
+      "type": "BUILT_IN",
+      "renderOrderMod":+10,
     },
     {
       "angle": 0,
