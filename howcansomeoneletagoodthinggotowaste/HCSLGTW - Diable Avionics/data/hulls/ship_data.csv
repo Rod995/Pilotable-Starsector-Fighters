@@ -1,12 +1,12 @@
 name,id,designation,tech/manufacturer,system id,fleet pts,hitpoints,armor rating,max flux,8/6/5/4%,flux dissipation,ordnance points,fighter bays,max speed,acceleration,deceleration,max turn rate,turn acceleration,mass,shield type,defense id,shield arc,shield upkeep,shield efficiency,phase cost,phase upkeep,min crew,max crew,cargo,fuel,fuel/ly,range,max burn,base value,cr %/day,CR to deploy,peak CR sec,CR loss/sec,supplies/rec,supplies/mo,hints,tags,rarity,breakProb,minPieces,maxPieces,number
-Arbitrator-S,diableavionics_arbitrator_ship,Solo Fighter,Diable Avionics,diableavionics_booster,2,300,50,400,,100,12,"",250,250,75,180,360,10,NONE,,0,0,0,,,1,1,2,2,0.2,,12,600,5,1,240,0.05,0.2,1,,diable_bp,,0.2,2,5,101
+Arbitrator-S,diableavionics_arbitrator_ship,Solo Fighter,Diable Avionics,diableavionics_booster,2,300,50,400,,100,12,"
+",250,250,75,180,360,10,NONE,,0,0,0,,,1,1,2,2,0.2,,12,600,5,1,240,0.05,0.2,1,,diable_bp,,0.2,2,5,101
+Arbitrator-ZS,diableavionics_arbitratorZ_ship,Solo Fighter,Diable Avionics,,,350,75,400,,150,0,,200,150,75,90,180,10,NONE,,0,0,0,,,2,2,2,2,0.2,,12,600,5,1,240,0.05,0.2,1,,diable_bp,,0.2,2,5,100
 Zephyr-S,diableavionics_zephyr_ship,Solo Wanzer,Diable Avionics,diableavionics_splitter,4,1850,150,1000,,200,24,,150,150,150,90,180,65,NONE,,,,,,,5,5,2,2,0.5,,9,1500,5,1,180,0.06,0.2,1,,diable_bp,,0.1,1,3,102
 Warlust-S,diableavionics_warlust_ship,Solo Wanzer,Diable Avionics,diableavionics_warlust_drone,2,1000,115,750,,150,18,,170,175,150,50,100,45,NONE,,,,,,,1,1,2,2,0.3,,10,1200,5,1,240,0.03,0.2,1,,diable_bp,,0.2,1,3,103
 Valiant-S,diableavionics_valiant_ship,Solo Wanzer,Diable Avionics,diableavionics_transit,2,1050,100,1000,,210,28,,125,100,75,70,140,45,FRONT,,120,0.1,1,,,3,3,2,2,0.2,,8,1500,5,1,240,0.05,0.2,1,,diable_bp,,0.1,1,3,104
 Strife-S,diableavionics_strife_ship,Solo Wanzer,Diable Avionics,diableavionics_dakka,2,1450,150,850,,200,16,,160,160,160,60,90,50,NONE,,,,,,,2,2,2,2,0.3,,10,1100,5,1,240,0.05,0.2,1,,diable_bp,,0.2,1,3,105
-Raven-S,diableavionics_raven_ship,Solo Wanzer,Diable Avionics,diableavionics_flicker,2,2600,175,1500,,250,28,,120,120,120,50,60,75,NONE,,,,,,,4,4,4,4,0.4,,8,1300,5,1,180,0.05,0.2,1,,diable_bp,,0.1,1,3,106
+Raven-S,diableavionics_raven_ship,Solo Wanzer,Diable Avionics,diableavionics_nudge,2,2600,175,1500,,250,28,,120,120,120,50,60,75,NONE,,,,,,,4,4,4,4,0.4,,8,1300,5,1,180,0.05,0.2,1,,diable_bp,,0.1,1,3,106
 Frost-S,diableavionics_frost_ship,Solo Wanzer,Diable Avionics,diableavionics_slash,2,1100,125,800,,150,16,,200,250,200,70,90,50,NONE,,,,,,,1,1,2,2,0.3,,10,1000,5,1,240,0.05,0.2,1,,diable_bp,,0.1,1,3,107
-Blizzaia-S,diableavionics_blizzaia_ship,Bomber Wanzer,"Diable Avionics",flarelauncher_active,2,1100,125,700,,100,32,,110,140,130,40,80,55,NONE,,,,,,,2,2,2,2,0.2,,8,1400,5,1,240,0.05,0.2,1,,diable_bp,,0.2,2,5,108
-Blizzaia +,diableavionics_blizzaia_plus_ship,Bomber Wanzer?,Diable Avionics,flarelauncher_active,3,1100,125,700,,100,32,,100,140,130,40,80,55,NONE,,,,,,,2,2,2,2,0.2,,8,2000,5,1,240,0.05,0.2,1,,diable_bp,,0.1,1,3,109
-Avalanche,diableavionics_avalanche_ship,Solo Wanzer,Diable Avionics,diableavionics_berserk,2,1350,140,500,,150,0,,175,175,100,50,100,55,NONE,,,,,,,4,4,4,4,0.4,,8,0,5,1,240,0.05,0.2,1,,diable_bp,,0.1,1,3,110
-Frost-X,diableavionics_gladiator_frost_ship,Gladiatorial Wanzer,Diable Avionics,gladiatorManeuveringJets,2,760,165,900,,190,18,,275,165,125,70,90,55,NONE,,,,,,,1,1,2,2,0.3,,10,8700,5,1,240,0.05,0.2,1,,diable_bp,,0.1,1,3,111
+Blizzaia-S,diableavionics_blizzaia_ship,Bomber Wanzer,"Diable Avionics
+",flarelauncher_active,2,1100,125,700,,100,32,,110,140,130,40,80,55,NONE,,,,,,,2,2,2,2,0.2,,8,1400,5,1,240,0.05,0.2,1,,diable_bp,,0.2,2,5,108

@@ -1,9 +1,12 @@
 {
+  "variantId": "diableavionics_raven_ship_variant",
+  "hullId": "diableavionics_raven_ship",
   "displayName": "New Variant",
+  "goalVariant": true,
   "fluxCapacitors": 2,
   "fluxVents": 0,
-  "goalVariant": true,
-  "hullId": "diableavionics_raven_ship",
+  "quality": 0,
+  "permaMods": [],
   "hullMods": [
     "heavyarmor",
     "frontshield",
@@ -11,10 +14,6 @@
     "extendedshieldemitter",
     "magazines"
   ],
-  "modules": [],
-  "permaMods": [],
-  "quality": 0,
-  "variantId": "diableavionics_raven_ship_variant",
   "weaponGroups": [
     {
       "autofire": true,
@@ -38,5 +37,6 @@
       }
     }
   ],
+  "modules": [],
   "wings": []
 }

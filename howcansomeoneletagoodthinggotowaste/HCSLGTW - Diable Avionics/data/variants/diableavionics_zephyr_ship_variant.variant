@@ -1,17 +1,16 @@
 {
+  "variantId": "diableavionics_zephyr_ship_variant",
+  "hullId": "diableavionics_zephyr_ship",
   "displayName": "Zephyr S+",
+  "goalVariant": false,
   "fluxCapacitors": 0,
   "fluxVents": 0,
-  "goalVariant": false,
-  "hullId": "diableavionics_zephyr_ship",
+  "quality": 0,
+  "permaMods": [],
   "hullMods": [
     "autorepair",
     "frontshield"
   ],
-  "modules": [],
-  "permaMods": [],
-  "quality": 0,
-  "variantId": "diableavionics_zephyr_ship_variant",
   "weaponGroups": [
     {
       "autofire": true,
@@ -35,5 +34,6 @@
       }
     }
   ],
+  "modules": [],
   "wings": []
 }
